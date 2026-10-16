@@ -1,0 +1,94 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+example
+
+# generated native folders
+/ios
+/android
+
+# Local artifacts (Maestro screenshots, logs)
+artifacts/
+
+# Blind pitch set 1: the 404 WAVs (172 MB) and the engine outputs stay out of git (the repo keeps large data out, D38);
+# truth.json, commands.tsv, scripts, MANIFEST.sha256 (checksums of the WAVs) and the report are committed.
+test/blind/pitch-1/*.wav
+# Fix round 2 (D37): the 13 16-bit files the regression tests use (src/engine/pitch/blind1-regression.test.ts, 3.8 MB)
+!test/blind/pitch-1/038_pluck-bass_G2_phonemic_locked_48k_pcm16.wav
+!test/blind/pitch-1/044_pluck-bass-lowB_B0_B8e-4_phonemic_locked_44k1_pcm16.wav
+!test/blind/pitch-1/046_pluck-bass-lowB_B0_B2e-3_phonemic_locked_44k1_pcm16.wav
+!test/blind/pitch-1/148_wind_tuba_D1_48k_pcm16.wav
+!test/blind/pitch-1/155_synth-harmonic_D1_a_48k_pcm16.wav
+!test/blind/pitch-1/292_snr10_D3clarinet_room_48k_pcm16.wav
+!test/blind/pitch-1/320_hum-under_E2_50Hz_snr10_48k_pcm16.wav
+!test/blind/pitch-1/323_hum-under_A1_60Hz_snr10_44k1_pcm16.wav
+!test/blind/pitch-1/337_click-mixed_A3cello_wood100_44k1_pcm16.wav
+!test/blind/pitch-1/341_click-mixed_E4_wood120_44k1_pcm16.wav
+!test/blind/pitch-1/346_string-change_guitar_D3-G3_400ms_48k_pcm16.wav
+!test/blind/pitch-1/375_octave-ambiguous_C4_even+weak3_chrom_44k1_pcm16.wav
+!test/blind/pitch-1/399_sympathetic_A2_with_E2_ringing_44k1_pcm16.wav
+test/blind/pitch-1/out/
+# Real-recording blind set 1 (Iowa MIS excerpts, measured once on ec0bc99): 215 + 361 WAVs (≈ 270 MB) and the engine
+# outputs stay out of git; MANIFEST.sha256 pins every WAV; the raw downloads (`dl/`) were never copied into the repo
+test/blind/real-1/*.wav
+test/blind/real-1/supplement/*.wav
+# Fix round 3 (D38/D39): the 11 WAVs the regression tests use (src/engine/pitch/real1-regression.test.ts, 5.8 MB),
+# checked against MANIFEST.sha256 in the test
+!test/blind/real-1/053_cello-arco_D3_mf_auto_44k1_pcm16.wav
+!test/blind/real-1/063_cello-pizz_C2_mf_auto_44k1_pcm16.wav
+!test/blind/real-1/131_oboe_As4_mf_chrom_44k1_pcm16.wav
+!test/blind/real-1/151_piano_A2_mf_chrom_44k1_f32.wav
+!test/blind/real-1/164_dbass-arco_G1_ff_chrom_44k1_pcm16.wav
+!test/blind/real-1/179_viola-arco_C3_ff_auto_44k1_pcm16.wav
+!test/blind/real-1/supplement/025_guitar_F4_mf_auto_96k_pcm24.wav
+!test/blind/real-1/supplement/030_dbass-arco_Gs1_mf_auto_44k1_pcm16.wav
+!test/blind/real-1/supplement/065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav
+!test/blind/real-1/supplement/066_harmonic_A2_mf_lockedA1-x2_44k1_pcm16.wav
+!test/blind/real-1/supplement/186_violin-pizz_G3_mf_auto_44k1_pcm16.wav
+test/blind/real-1/out/
+test/blind/real-1/out-supplement/
+test/blind/real-1/out-fix3/
+test/blind/real-1/out-supplement-fix3/
+test/blind/real-1/__pycache__/
+keystore.properties
+*.keystore
+google-services.json
+GoogleService-Info.plist
+.env
+.env.*
+test/fixtures/real/

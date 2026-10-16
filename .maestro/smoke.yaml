@@ -1,0 +1,40 @@
+appId: ${APP_ID}
+name: Smoke - tabs, change theme, restart, theme persists
+tags:
+  - smoke
+---
+# P0: the template's item form is no longer reachable (home became the Tuner tab, D22); this flow keeps the template's
+# navigation + persistence check. Written in P0 without a device: first run is in P3 (IMPLEMENTED BUT UNVERIFIED).
+- runFlow: subflows/launch.yaml
+- tapOn:
+    id: tab-metronome
+- assertVisible:
+    id: metronome-screen
+- tapOn:
+    id: tab-tuner
+- assertVisible:
+    id: tuner-screen
+
+# Settings: switch to dark mode
+- tapOn:
+    id: open-settings
+- assertVisible:
+    id: settings-screen
+- tapOn:
+    id: theme-dark
+- assertVisible:
+    id: theme-dark
+    selected: true
+
+# Restart the app: the theme must still be there
+- stopApp
+- runFlow: subflows/launch.yaml
+- tapOn:
+    id: open-settings
+- assertVisible:
+    id: theme-dark
+    selected: true
+
+# Restore the default theme for the next run
+- tapOn:
+    id: theme-system

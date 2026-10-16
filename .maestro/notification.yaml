@@ -1,0 +1,23 @@
+appId: ${APP_ID}
+name: Example local notification can be scheduled
+tags:
+  - smoke
+---
+# Grant notification permission up front; system permission dialogs aren't reliably tappable on iOS.
+- launchApp:
+    stopApp: true
+    permissions:
+      notifications: allow
+- extendedWaitUntil:
+    visible:
+      id: tuner-screen
+    timeout: 90000
+- tapOn:
+    id: open-settings
+- tapOn:
+    id: schedule-notification
+- extendedWaitUntil:
+    visible:
+      id: notification-status
+    timeout: 10000
+- assertVisible: Notification scheduled for 5 seconds from now.

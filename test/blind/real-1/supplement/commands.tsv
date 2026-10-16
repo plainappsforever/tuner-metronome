@@ -1,0 +1,361 @@
+001_guitar_E2_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+002_guitar_E2_mf_lockedE2_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 0
+003_guitar_F2_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+004_guitar_Fs2_mf_chrom_96k_pcm24.wav	--a4 440 --tolerance 3
+005_guitar_E2_ff_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+006_guitar_E2_ff_lockedE2_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 0
+007_guitar_A2_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+008_guitar_A2_mf_lockedA2_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 1
+009_guitar_As2_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+010_guitar_B2_mf_chrom_96k_pcm24.wav	--a4 440 --tolerance 3
+011_guitar_D3_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+012_guitar_D3_mf_lockedD3_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 2
+013_guitar_Ds3_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+014_guitar_G3_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+015_guitar_G3_mf_lockedG3_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 3
+016_guitar_A3_mf_chrom_96k_pcm24.wav	--a4 440 --tolerance 3
+017_harmonic_A3_mf_lockedA2-x2_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 1
+018_guitar_As3_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+019_guitar_B3_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+020_guitar_B3_mf_lockedB3_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 4
+021_harmonic_B3_mf_lockedE2-x3_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 0
+022_guitar_E4_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+023_guitar_E4_mf_lockedE4_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 5
+024_harmonic_E4_mf_lockedA2-x3_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 1
+025_guitar_F4_mf_auto_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64
+026_guitar_Fs4_mf_chrom_96k_pcm24.wav	--a4 440 --tolerance 3
+027_guitar_G4_mf_chrom_96k_pcm24.wav	--a4 440 --tolerance 3
+028_harmonic_G4_mf_lockedG3-x2_96k_pcm24.wav	--a4 440 --tolerance 3 --targets 40,45,50,55,59,64 --locked 3
+029_dbass-arco_G1_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+030_dbass-arco_Gs1_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+031_dbass-arco_A1_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+032_dbass-arco_A1_mf_lockedA1_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+033_dbass-arco_As1_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+034_dbass-arco_B1_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+035_dbass-arco_E2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+036_harmonic_E2_mf_lockedE1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+037_dbass-arco_A2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+038_harmonic_A2_mf_lockedA1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+039_dbass-arco_B2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+040_harmonic_B2_mf_lockedE1-x3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+041_dbass-arco_Gs2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+042_dbass-arco_A2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+043_harmonic_A2_mf_lockedA1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+044_dbass-arco_As2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+045_dbass-arco_C3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+046_dbass-arco_Cs3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+047_dbass-arco_Ds3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+048_dbass-arco_E3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+049_harmonic_E3_mf_lockedA1-x3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+050_dbass-arco_F3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+051_dbass-arco_A3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+052_harmonic_A3_mf_lockedD2-x3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 2
+053_dbass-arco_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+054_dbass-pizz_E1_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+055_dbass-pizz_E1_mf_lockedE1_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+056_dbass-pizz_F1_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+057_dbass-pizz_Fs1_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+058_dbass-pizz_B1_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+059_dbass-pizz_A1_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+060_dbass-pizz_A1_ff_lockedA1_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+061_dbass-pizz_As1_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+062_dbass-pizz_D2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+063_dbass-pizz_D2_mf_lockedD2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 2
+064_dbass-pizz_F2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+066_harmonic_A2_mf_lockedA1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+067_dbass-pizz_G2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+068_dbass-pizz_G2_mf_lockedG2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 3
+069_dbass-pizz_C3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+070_dbass-pizz_Cs3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+071_dbass-pizz_Fs3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+072_cello-arco_C2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+073_cello-arco_C2_mf_lockedC2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 0
+074_cello-arco_D2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+075_cello-arco_Ds2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+076_cello-arco_E2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+077_cello-arco_F2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+078_cello-arco_Gs2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+079_cello-arco_G2_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+080_cello-arco_G2_ff_lockedG2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 1
+081_cello-arco_Gs2_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+082_cello-arco_As2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+083_cello-arco_Ds3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+084_cello-arco_E3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+085_cello-arco_Gs3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+086_cello-arco_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+087_cello-arco_C4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+088_harmonic_C4_mf_lockedC2-x4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 0
+089_cello-arco_Cs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+090_cello-arco_D4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+091_harmonic_D4_mf_lockedD3-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 2
+092_cello-arco_Ds4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+093_cello-arco_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+094_cello-arco_G4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+095_harmonic_G4_mf_lockedG2-x4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 1
+096_cello-pizz_Cs2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+097_cello-pizz_D2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+098_cello-pizz_Ds2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+099_cello-pizz_E2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+100_cello-pizz_F2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+101_cello-pizz_Fs2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+102_cello-pizz_G2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+103_cello-pizz_G2_mf_lockedG2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 1
+104_cello-pizz_Gs2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+105_cello-pizz_A2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+106_cello-pizz_As2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+107_cello-pizz_B2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+108_cello-pizz_Gs2_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+109_cello-pizz_D3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+110_cello-pizz_D3_mf_lockedD3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 2
+111_cello-pizz_Ds3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+112_cello-pizz_E3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+113_cello-pizz_A3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+114_cello-pizz_A3_mf_lockedA3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 3
+115_cello-pizz_As3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+116_cello-pizz_As3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57
+117_cello-pizz_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+118_cello-pizz_Cs4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+119_cello-pizz_D4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 2
+121_cello-pizz_Ds4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+122_cello-pizz_E4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+123_cello-pizz_F4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+124_cello-pizz_Fs4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+125_cello-pizz_G4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+126_harmonic_G4_ff_lockedG2-x4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 36,43,50,57 --locked 1
+127_viola-arco_Cs3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+128_viola-arco_E3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+129_viola-arco_F3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+130_viola-arco_Fs3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+131_viola-arco_G3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+132_viola-arco_G3_mf_lockedG3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69 --locked 1
+133_viola-arco_A3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+134_viola-arco_As3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+135_viola-arco_Gs3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+136_viola-arco_A3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+137_viola-arco_Ds4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+138_viola-arco_E4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+139_viola-arco_F4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+140_viola-arco_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+141_viola-arco_Gs4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+142_viola-arco_A4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+143_viola-arco_A4_mf_lockedA4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69 --locked 3
+144_viola-arco_As4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+145_viola-arco_B4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+146_viola-arco_B4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+147_viola-arco_C5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+148_harmonic_C5_mf_lockedC3-x4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69 --locked 0
+149_viola-arco_D5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+150_harmonic_D5_mf_lockedD4-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69 --locked 2
+151_viola-arco_E5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+152_viola-arco_F5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+153_viola-arco_G5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+154_harmonic_G5_mf_lockedG3-x4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69 --locked 1
+155_viola-arco_As5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+156_viola-arco_B5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+157_violin-arco_G3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+158_violin-arco_G3_mf_lockedG3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 0
+159_violin-arco_Gs3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+160_violin-arco_A3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+161_violin-arco_As3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+162_violin-arco_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+163_violin-arco_D4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+164_violin-arco_D4_mf_lockedD4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 1
+165_violin-arco_Ds4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+166_violin-arco_E4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+167_violin-arco_F4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+168_violin-arco_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+169_violin-arco_G4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+170_harmonic_G4_mf_lockedG3-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 0
+171_violin-arco_A4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+172_violin-arco_A4_mf_lockedA4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 2
+173_violin-arco_A4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+174_violin-arco_A4_mf_lockedA4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 2
+175_violin-arco_As4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+176_violin-arco_B4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+177_violin-arco_F5_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+178_violin-arco_G5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+179_harmonic_G5_mf_lockedG3-x4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 0
+180_violin-arco_Gs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+181_violin-arco_A5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+182_harmonic_A5_mf_lockedA4-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 2
+183_violin-arco_As5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+184_violin-arco_C6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+185_violin-arco_Cs6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+186_violin-pizz_G3_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+187_violin-pizz_G3_mf_lockedG3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 0
+188_violin-pizz_As3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+189_violin-pizz_D4_mf_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76
+190_violin-pizz_D4_mf_lockedD4_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 1
+191_violin-pizz_E4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+192_violin-pizz_F4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+193_violin-pizz_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+194_violin-pizz_G4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+195_harmonic_G4_mf_lockedG3-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 55,62,69,76 --locked 0
+196_flute-novib_C4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+197_flute-novib_Cs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+198_flute-novib_Ds4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+199_flute-novib_E4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+200_flute-novib_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+201_flute-novib_Gs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+202_flute-novib_A4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+203_flute-novib_As4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+204_flute-novib_B4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+205_flute-novib_C5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+206_flute-novib_Cs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+207_flute-novib_E5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+208_flute-novib_Fs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+209_flute-novib_G5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+210_flute-novib_Gs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+211_flute-novib_As5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+212_flute-novib_B5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+213_flute-novib_C6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+214_flute-novib_Cs6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+215_flute-novib_Ds6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+216_flute-novib_E6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+217_flute-novib_F6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+218_flute-novib_Fs6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+219_flute-novib_G6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+220_flute-novib_Gs6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+221_flute-novib_A6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+222_flute-novib_As6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+223_flute-novib_B6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+224_flute-vib_C5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+225_flute-vib_Cs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+226_flute-vib_D5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+227_flute-vib_Fs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+228_flute-vib_As5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+229_clarinet_D3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+230_clarinet_Ds3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+231_clarinet_E3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+232_clarinet_As3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+233_clarinet_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+234_clarinet_Cs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+235_clarinet_Ds4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+236_clarinet_F4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+237_clarinet_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+238_clarinet_Gs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+239_clarinet_F5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+240_clarinet_G5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+241_clarinet_Gs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+242_clarinet_Ds6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+243_clarinet_E6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+244_clarinet_F6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+245_clarinet_Fs6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+246_clarinet_G6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+247_clarinet_Gs6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+248_clarinet_A6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+249_clarinet_As6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+250_clarinet_B6_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+251_oboe_As3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+252_oboe_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+253_oboe_Cs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+254_oboe_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+255_oboe_G4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+256_oboe_A4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+257_oboe_D5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+258_oboe_F5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+259_oboe_Fs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+260_oboe_Gs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+261_oboe_A5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+262_oboe_C6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+263_oboe_Ds6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+264_oboe_E6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+265_oboe_Fs6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+266_oboe_G6_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+267_trumpet-novib_E3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+268_trumpet-novib_Fs3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+269_trumpet-novib_G3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+270_trumpet-novib_Gs3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+271_trumpet-novib_A3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+272_trumpet-novib_As3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+273_trumpet-novib_B3_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+274_trumpet-novib_C4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+275_trumpet-novib_Cs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+276_trumpet-novib_Ds4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+277_trumpet-novib_E4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+278_trumpet-novib_F4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+279_trumpet-novib_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+280_trumpet-novib_G4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+281_trumpet-novib_Gs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+282_trumpet-novib_A4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+283_trumpet-novib_As4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+284_trumpet-novib_Cs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+285_trumpet-novib_D5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+286_trumpet-novib_Ds5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+287_trumpet-novib_E5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+288_trumpet-novib_F5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+289_trumpet-novib_Fs5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+290_trumpet-novib_G5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+291_trumpet-novib_A5_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+292_trumpet-vib_C4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+293_trumpet-vib_Ds4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+294_trumpet-vib_E4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+295_trumpet-vib_F4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+296_trumpet-vib_Fs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+297_trumpet-vib_G4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+298_trumpet-vib_Gs4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+299_trumpet-vib_A4_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+300_tuba_C2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+301_tuba_Cs2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+302_tuba_D2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+303_tuba_Ds2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+304_tuba_E2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+305_tuba_F2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+306_tuba_Fs2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+307_tuba_G2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+308_tuba_Gs2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+309_tuba_A2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+310_tuba_As2_mf_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+311_piano_E1_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+312_piano_E4_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+313_piano_E5_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+314_piano_A5_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+315_piano_E6_ff_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+316_dbass-arco_D2_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+317_dbass-arco_D2_ff_lockedD2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 2
+318_dbass-arco_E2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+319_harmonic_E2_ff_lockedE1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+320_dbass-arco_F2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+321_dbass-arco_Fs2_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+322_dbass-arco_A2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+323_harmonic_A2_ff_lockedA1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+324_dbass-arco_As2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+325_dbass-arco_B2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+326_harmonic_B2_ff_lockedE1-x3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+327_dbass-arco_Gs1_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+328_dbass-arco_A1_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+329_dbass-arco_A1_ff_lockedA1_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 1
+330_dbass-arco_As1_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+331_dbass-arco_Gs2_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43
+332_dbass-arco_As2_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+333_dbass-arco_E2_pp_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+334_harmonic_E2_pp_lockedE1-x2_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+335_dbass-arco_B2_pp_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+336_harmonic_B2_pp_lockedE1-x3_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 28,33,38,43 --locked 0
+337_viola-arco_Cs3_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+338_viola-arco_D3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+339_viola-arco_Ds3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+340_viola-arco_E3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+341_viola-arco_Fs3_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+342_viola-arco_Gs3_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+343_viola-arco_A3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+344_viola-arco_As3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+345_viola-arco_Gs3_ff_auto_44k1_pcm16.wav	--a4 440 --tolerance 3 --targets 48,55,62,69
+346_viola-arco_A3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+347_viola-arco_B3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+348_oboe_B4_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+349_oboe_C5_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+350_oboe_Cs5_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+351_oboe_D5_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+352_oboe_F5_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+353_oboe_Fs5_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+354_oboe_G5_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+355_oboe_C4_pp_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+356_clarinet_D3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+357_clarinet_E3_ff_chrom_44k1_pcm16.wav	--a4 440 --tolerance 3
+358_piano_E3_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+359_piano_Gs3_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+360_piano_Cs4_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3
+361_piano_Gs4_mf_chrom_44k1_f32.wav	--a4 440 --tolerance 3

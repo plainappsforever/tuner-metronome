@@ -1,0 +1,486 @@
+{
+ "format": "f32le-mono",
+ "generator": "scripts/gen-sounds.mjs",
+ "tables": [
+  {
+   "name": "click-accent-44100.f32",
+   "kit": "click",
+   "voice": "accent",
+   "sr": 44100,
+   "frames": 1103,
+   "fnv1a32": 3859257009
+  },
+  {
+   "name": "click-beat-44100.f32",
+   "kit": "click",
+   "voice": "beat",
+   "sr": 44100,
+   "frames": 1103,
+   "fnv1a32": 3038851772
+  },
+  {
+   "name": "click-sub-44100.f32",
+   "kit": "click",
+   "voice": "sub",
+   "sr": 44100,
+   "frames": 1103,
+   "fnv1a32": 4031741943
+  },
+  {
+   "name": "click-poly-44100.f32",
+   "kit": "click",
+   "voice": "poly",
+   "sr": 44100,
+   "frames": 1103,
+   "fnv1a32": 3405830785
+  },
+  {
+   "name": "click-countIn-44100.f32",
+   "kit": "click",
+   "voice": "countIn",
+   "sr": 44100,
+   "frames": 1103,
+   "fnv1a32": 3516343442
+  },
+  {
+   "name": "wood-accent-44100.f32",
+   "kit": "wood",
+   "voice": "accent",
+   "sr": 44100,
+   "frames": 1544,
+   "fnv1a32": 321433270
+  },
+  {
+   "name": "wood-beat-44100.f32",
+   "kit": "wood",
+   "voice": "beat",
+   "sr": 44100,
+   "frames": 1544,
+   "fnv1a32": 1114945623
+  },
+  {
+   "name": "wood-sub-44100.f32",
+   "kit": "wood",
+   "voice": "sub",
+   "sr": 44100,
+   "frames": 1544,
+   "fnv1a32": 1150425195
+  },
+  {
+   "name": "wood-poly-44100.f32",
+   "kit": "wood",
+   "voice": "poly",
+   "sr": 44100,
+   "frames": 1544,
+   "fnv1a32": 2668642422
+  },
+  {
+   "name": "wood-countIn-44100.f32",
+   "kit": "wood",
+   "voice": "countIn",
+   "sr": 44100,
+   "frames": 1544,
+   "fnv1a32": 951005233
+  },
+  {
+   "name": "beep-accent-44100.f32",
+   "kit": "beep",
+   "voice": "accent",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 4089727934
+  },
+  {
+   "name": "beep-beat-44100.f32",
+   "kit": "beep",
+   "voice": "beat",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 1549088736
+  },
+  {
+   "name": "beep-sub-44100.f32",
+   "kit": "beep",
+   "voice": "sub",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 3111740974
+  },
+  {
+   "name": "beep-poly-44100.f32",
+   "kit": "beep",
+   "voice": "poly",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 2293984495
+  },
+  {
+   "name": "beep-countIn-44100.f32",
+   "kit": "beep",
+   "voice": "countIn",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 3480609993
+  },
+  {
+   "name": "cowbell-accent-44100.f32",
+   "kit": "cowbell",
+   "voice": "accent",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 174513802
+  },
+  {
+   "name": "cowbell-beat-44100.f32",
+   "kit": "cowbell",
+   "voice": "beat",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 2010893074
+  },
+  {
+   "name": "cowbell-sub-44100.f32",
+   "kit": "cowbell",
+   "voice": "sub",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 3158033274
+  },
+  {
+   "name": "cowbell-poly-44100.f32",
+   "kit": "cowbell",
+   "voice": "poly",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 3293298620
+  },
+  {
+   "name": "cowbell-countIn-44100.f32",
+   "kit": "cowbell",
+   "voice": "countIn",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 2924004725
+  },
+  {
+   "name": "stick-accent-44100.f32",
+   "kit": "stick",
+   "voice": "accent",
+   "sr": 44100,
+   "frames": 882,
+   "fnv1a32": 2526845669
+  },
+  {
+   "name": "stick-beat-44100.f32",
+   "kit": "stick",
+   "voice": "beat",
+   "sr": 44100,
+   "frames": 882,
+   "fnv1a32": 902478128
+  },
+  {
+   "name": "stick-sub-44100.f32",
+   "kit": "stick",
+   "voice": "sub",
+   "sr": 44100,
+   "frames": 882,
+   "fnv1a32": 2534148286
+  },
+  {
+   "name": "stick-poly-44100.f32",
+   "kit": "stick",
+   "voice": "poly",
+   "sr": 44100,
+   "frames": 882,
+   "fnv1a32": 1801229197
+  },
+  {
+   "name": "stick-countIn-44100.f32",
+   "kit": "stick",
+   "voice": "countIn",
+   "sr": 44100,
+   "frames": 882,
+   "fnv1a32": 1515190630
+  },
+  {
+   "name": "soft-accent-44100.f32",
+   "kit": "soft",
+   "voice": "accent",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 882395957
+  },
+  {
+   "name": "soft-beat-44100.f32",
+   "kit": "soft",
+   "voice": "beat",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 2923141379
+  },
+  {
+   "name": "soft-sub-44100.f32",
+   "kit": "soft",
+   "voice": "sub",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 116216408
+  },
+  {
+   "name": "soft-poly-44100.f32",
+   "kit": "soft",
+   "voice": "poly",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 176498387
+  },
+  {
+   "name": "soft-countIn-44100.f32",
+   "kit": "soft",
+   "voice": "countIn",
+   "sr": 44100,
+   "frames": 1764,
+   "fnv1a32": 202303143
+  },
+  {
+   "name": "click-accent-48000.f32",
+   "kit": "click",
+   "voice": "accent",
+   "sr": 48000,
+   "frames": 1200,
+   "fnv1a32": 1747870013
+  },
+  {
+   "name": "click-beat-48000.f32",
+   "kit": "click",
+   "voice": "beat",
+   "sr": 48000,
+   "frames": 1200,
+   "fnv1a32": 2491019263
+  },
+  {
+   "name": "click-sub-48000.f32",
+   "kit": "click",
+   "voice": "sub",
+   "sr": 48000,
+   "frames": 1200,
+   "fnv1a32": 3715375207
+  },
+  {
+   "name": "click-poly-48000.f32",
+   "kit": "click",
+   "voice": "poly",
+   "sr": 48000,
+   "frames": 1200,
+   "fnv1a32": 261904841
+  },
+  {
+   "name": "click-countIn-48000.f32",
+   "kit": "click",
+   "voice": "countIn",
+   "sr": 48000,
+   "frames": 1200,
+   "fnv1a32": 2991074152
+  },
+  {
+   "name": "wood-accent-48000.f32",
+   "kit": "wood",
+   "voice": "accent",
+   "sr": 48000,
+   "frames": 1680,
+   "fnv1a32": 2761012579
+  },
+  {
+   "name": "wood-beat-48000.f32",
+   "kit": "wood",
+   "voice": "beat",
+   "sr": 48000,
+   "frames": 1680,
+   "fnv1a32": 2018019391
+  },
+  {
+   "name": "wood-sub-48000.f32",
+   "kit": "wood",
+   "voice": "sub",
+   "sr": 48000,
+   "frames": 1680,
+   "fnv1a32": 1467331660
+  },
+  {
+   "name": "wood-poly-48000.f32",
+   "kit": "wood",
+   "voice": "poly",
+   "sr": 48000,
+   "frames": 1680,
+   "fnv1a32": 3339354131
+  },
+  {
+   "name": "wood-countIn-48000.f32",
+   "kit": "wood",
+   "voice": "countIn",
+   "sr": 48000,
+   "frames": 1680,
+   "fnv1a32": 3121699444
+  },
+  {
+   "name": "beep-accent-48000.f32",
+   "kit": "beep",
+   "voice": "accent",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 1707772747
+  },
+  {
+   "name": "beep-beat-48000.f32",
+   "kit": "beep",
+   "voice": "beat",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 140573394
+  },
+  {
+   "name": "beep-sub-48000.f32",
+   "kit": "beep",
+   "voice": "sub",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 756559499
+  },
+  {
+   "name": "beep-poly-48000.f32",
+   "kit": "beep",
+   "voice": "poly",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 4087281241
+  },
+  {
+   "name": "beep-countIn-48000.f32",
+   "kit": "beep",
+   "voice": "countIn",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 1964163731
+  },
+  {
+   "name": "cowbell-accent-48000.f32",
+   "kit": "cowbell",
+   "voice": "accent",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 232872401
+  },
+  {
+   "name": "cowbell-beat-48000.f32",
+   "kit": "cowbell",
+   "voice": "beat",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 802908726
+  },
+  {
+   "name": "cowbell-sub-48000.f32",
+   "kit": "cowbell",
+   "voice": "sub",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 331266090
+  },
+  {
+   "name": "cowbell-poly-48000.f32",
+   "kit": "cowbell",
+   "voice": "poly",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 169322644
+  },
+  {
+   "name": "cowbell-countIn-48000.f32",
+   "kit": "cowbell",
+   "voice": "countIn",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 2896171260
+  },
+  {
+   "name": "stick-accent-48000.f32",
+   "kit": "stick",
+   "voice": "accent",
+   "sr": 48000,
+   "frames": 960,
+   "fnv1a32": 54266330
+  },
+  {
+   "name": "stick-beat-48000.f32",
+   "kit": "stick",
+   "voice": "beat",
+   "sr": 48000,
+   "frames": 960,
+   "fnv1a32": 3578547317
+  },
+  {
+   "name": "stick-sub-48000.f32",
+   "kit": "stick",
+   "voice": "sub",
+   "sr": 48000,
+   "frames": 960,
+   "fnv1a32": 2739139563
+  },
+  {
+   "name": "stick-poly-48000.f32",
+   "kit": "stick",
+   "voice": "poly",
+   "sr": 48000,
+   "frames": 960,
+   "fnv1a32": 2291563784
+  },
+  {
+   "name": "stick-countIn-48000.f32",
+   "kit": "stick",
+   "voice": "countIn",
+   "sr": 48000,
+   "frames": 960,
+   "fnv1a32": 3061067728
+  },
+  {
+   "name": "soft-accent-48000.f32",
+   "kit": "soft",
+   "voice": "accent",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 2196523190
+  },
+  {
+   "name": "soft-beat-48000.f32",
+   "kit": "soft",
+   "voice": "beat",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 1919897794
+  },
+  {
+   "name": "soft-sub-48000.f32",
+   "kit": "soft",
+   "voice": "sub",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 4248720681
+  },
+  {
+   "name": "soft-poly-48000.f32",
+   "kit": "soft",
+   "voice": "poly",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 1899465746
+  },
+  {
+   "name": "soft-countIn-48000.f32",
+   "kit": "soft",
+   "voice": "countIn",
+   "sr": 48000,
+   "frames": 1920,
+   "fnv1a32": 2475204283
+  }
+ ]
+}

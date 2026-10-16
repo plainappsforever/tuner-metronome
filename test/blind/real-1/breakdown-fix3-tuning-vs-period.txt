@@ -1,0 +1,70 @@
+
+Per group (instrument + articulation) (truth = period; base files only)
+| row | files | evalF | cover% | med c | p95 c | max c | note% | stat% | harm | wDir T/L | false% | settled | setl50 | setl95 | 1st50 | 1st95 | jumps>1c |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| cello-arco | 10 | 433 | 100.0 | 0.53 | 3.54 | 6.3 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 10/10 | 350 | 633 | 167 | 267 | 0 |
+| cello-pizz | 4 | 191 | 100.0 | 0.41 | 4.57 | 10.7 | 100.0 | 96.3 | 0 | 1/0 | 0.0 | 4/4 | 283 | 533 | 117 | 333 | 1 |
+| clarinet | 22 | 1174 | 100.0 | 0.39 | 2.20 | 7.2 | 100.0 | 100.0 | 0 | 0/4 | 0.0 | 22/22 | 400 | 533 | 167 | 233 | 0 |
+| dbass-arco | 34 | 2040 | 100.0 | 0.26 | 2.57 | 23.0 | 100.0 | 100.0 | 0 | 17/20 | 0.0 | 34/34 | 333 | 533 | 167 | 300 | 0 |
+| dbass-pizz | 14 | 525 | 97.0 | 0.70 | 7.81 | 2764.0 | 98.8 | 98.6 | 0 | 40/1 | 0.0 | 13/14 | 400 | 900 | 217 | 833 | 3 |
+| flute-novib | 4 | 228 | 100.0 | 1.04 | 2.94 | 4.3 | 100.0 | 100.0 | 0 | 0/1 | 0.0 | 4/4 | 433 | 600 | 350 | 367 | 0 |
+| flute-vib | 6 | 323 | 90.4 | 0.00 | 0.00 | 2.1 | 100.0 | - | 0 | 0/0 | 0.0 | 6/6 | 217 | 300 | 150 | 233 | 0 |
+| oboe | 13 | 478 | 100.0 | 0.63 | 3.02 | 5.9 | 100.0 | 100.0 | 0 | 0/1 | 0.0 | 13/13 | 200 | 633 | 67 | 433 | 0 |
+| piano | 30 | 1614 | 100.0 | 5.99 | 20.19 | 28.0 | 100.0 | 99.8 | 0 | 521/1 | 15.1 | 11/30 | 300 | 633 | 100 | 300 | 10 |
+| trumpet-novib | 7 | 729 | 100.0 | 0.55 | 2.74 | 8.3 | 100.0 | 100.0 | 0 | 0/3 | 0.0 | 7/7 | 267 | 733 | 67 | 100 | 0 |
+| trumpet-vib | 4 | 492 | 100.0 | 0.00 | 0.00 | 0.0 | 100.0 | - | 0 | 0/0 | 0.0 | 4/4 | 267 | 267 | 67 | 200 | 0 |
+| viola-arco | 22 | 1114 | 100.0 | 0.37 | 2.29 | 11.3 | 100.0 | 100.0 | 0 | 5/0 | 0.0 | 22/22 | 267 | 467 | 133 | 200 | 0 |
+| violin-arco | 4 | 442 | 100.0 | 0.31 | 1.02 | 2.5 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 4/4 | 300 | 567 | 83 | 300 | 0 |
+| violin-pizz | 2 | 41 | 100.0 | 0.19 | 1.99 | 2.8 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 2/2 | 150 | 167 | 67 | 67 | 0 |
+
+Per octave of the played note (truth = period; base files only)
+| row | files | evalF | cover% | med c | p95 c | max c | note% | stat% | harm | wDir T/L | false% | settled | setl50 | setl95 | 1st50 | 1st95 | jumps>1c |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 14 | 757 | 100.0 | 0.28 | 23.03 | 26.3 | 100.0 | 100.0 | 0 | 160/1 | 0.0 | 12/14 | 333 | 667 | 233 | 400 | 0 |
+| 2 | 39 | 2172 | 99.6 | 0.66 | 17.79 | 28.0 | 100.0 | 99.4 | 0 | 402/18 | 2.8 | 30/39 | 350 | 633 | 133 | 267 | 12 |
+| 3 | 49 | 2663 | 99.7 | 0.65 | 7.27 | 2764.0 | 99.8 | 99.7 | 0 | 16/5 | 6.7 | 43/49 | 333 | 733 | 133 | 333 | 1 |
+| 4 | 34 | 2002 | 100.0 | 0.39 | 5.63 | 11.2 | 100.0 | 100.0 | 0 | 6/1 | 0.0 | 31/34 | 267 | 567 | 100 | 367 | 1 |
+| 5 | 34 | 1938 | 98.4 | 0.35 | 1.92 | 5.9 | 100.0 | 100.0 | 0 | 0/6 | 0.0 | 34/34 | 283 | 567 | 100 | 333 | 0 |
+| 6 | 6 | 292 | 100.0 | 0.56 | 2.73 | 7.2 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 6/6 | 233 | 400 | 100 | 200 | 0 |
+
+Wrong-direction frames per base file (tighten while sharp / loosen while flat, of flat/sharp frames):
+  195_piano_F2_mf_chrom_44k1_f32.wav: 133/0 of 133
+  149_piano_A1_mf_chrom_44k1_f32.wav: 119/0 of 127
+  196_piano_Fs2_mf_chrom_44k1_f32.wav: 105/0 of 113
+  197_piano_G2_mf_chrom_44k1_f32.wav: 53/0 of 54
+  156_piano_E2_ff_chrom_44k1_f32.wav: 51/0 of 78
+  030_dbass-pizz_B1_ff_chrom_44k1_pcm16.wav: 37/0 of 53
+  150_piano_E2_mf_chrom_44k1_f32.wav: 22/0 of 50
+  199_piano_As2_mf_chrom_44k1_f32.wav: 18/0 of 19
+  012_dbass-arco_F2_mf_chrom_44k1_pcm16.wav: 13/0 of 82
+  166_dbass-arco_G2_ff_auto_44k1_pcm16.wav: 0/7 of 56
+  018_dbass-arco_G2_mf_auto_44k1_pcm16.wav: 0/5 of 21
+  073_viola-arco_Ds3_mf_chrom_44k1_pcm16.wav: 5/0 of 83
+  162_dbass-arco_F1_ff_auto_44k1_pcm16.wav: 4/0 of 63
+  198_piano_Gs2_mf_chrom_44k1_f32.wav: 4/0 of 5
+  204_piano_Fs3_mf_chrom_44k1_f32.wav: 4/0 of 118
+  017_dbass-arco_As2_mf_chrom_44k1_pcm16.wav: 0/3 of 20
+  043_dbass-pizz_Ds3_mf_chrom_44k1_pcm16.wav: 3/0 of 22
+  157_piano_A4_ff_chrom_44k1_f32.wav: 3/0 of 45
+  172_dbass-arco_D2_pp_auto_44k1_pcm16.wav: 0/3 of 35
+  191_clarinet_G3_ff_chrom_44k1_pcm16.wav: 0/3 of 12
+  211_piano_G4_mf_chrom_44k1_f32.wav: 3/0 of 103
+  141_trumpet-novib_C5_mf_chrom_44k1_pcm16.wav: 0/2 of 91
+  151_piano_A2_mf_chrom_44k1_f32.wav: 2/0 of 4
+  153_piano_G3_mf_chrom_44k1_f32.wav: 2/0 of 131
+  028_dbass-arco_As3_mf_chrom_44k1_pcm16.wav: 0/1 of 33
+  046_dbass-pizz_F3_mf_chrom_44k1_pcm16.wav: 0/1 of 23
+  065_cello-pizz_G2_mf_auto_44k1_pcm16.wav: 1/0 of 28
+  101_flute-novib_G4_mf_chrom_44k1_pcm16.wav: 0/1 of 48
+  122_clarinet_A5_mf_chrom_44k1_pcm16.wav: 0/1 of 7
+  143_trumpet-novib_As5_mf_chrom_44k1_pcm16.wav: 0/1 of 80
+  163_dbass-arco_Fs1_ff_chrom_44k1_pcm16.wav: 0/1 of 40
+  188_oboe_Ds5_ff_chrom_44k1_pcm16.wav: 0/1 of 35
+  201_piano_C3_mf_chrom_44k1_f32.wav: 1/0 of 6
+  202_piano_Cs3_mf_chrom_44k1_f32.wav: 1/0 of 131
+  214_piano_Cs5_mf_chrom_44k1_f32.wav: 0/1 of 57
+
+A4 safety (all files): 0 "tighten" frames while >= 1 octave sharp of the target, of 822 shown frames on such notes
+SPEC 9 guard (all files): 0 "tighten" frames while > 300 c above the engine target
+
+Columns: as check.py; settled = onsets reaching stable within +-2 c / onsets; setl50/95 = settle ms of the settled onsets; 1st50/95 = ms from onset to the first right-note frame (latency); jumps>1c = steady-display violations; false% = readings on nothing-segments (pre-roll room noise, after the note died away).

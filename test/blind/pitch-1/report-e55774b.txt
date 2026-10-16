@@ -1,0 +1,140 @@
+Blind set: 404 files; scored 404; missing outputs 0
+Frame spacing (median over files): 33.3 ms; t unit: s; t offset 0.0 s; lookback 0.2 s
+
+group                  files  evalF cover%    med    p95     max  note%   tgt%  stat% harm  nothF false% noisy wDirT wDirL setl50 setl95 sFail 1stF
+---------------------------------------------------------------------------------------------------------------------------------------------------
+a4-ref                    18   1142  100.0   0.02   0.06     0.5  100.0  100.0   99.6    0    216    0.0     0     0     0    200    300   4/4    3
+below-range                4    251    0.0      -      -       -      -      -      -    0     48    0.0     0     0     0      -      -   3/3    -
+bend                       6    393  100.0   0.00   0.08     0.3   92.9   98.5      -    0     72    0.0     0     0     0    200    300     -    3
+bowed-steady              16   1025  100.0   0.02   0.18     0.8  100.0  100.0   99.3    0    192    0.0     0     0     0    300    433     -    4
+bowed-vibrato             16   1025  100.0   0.00   0.00     0.3  100.0  100.0      -    0    192    0.0     0     0     0    300    433     -    4
+click-alone                8      0      -      -      -       -      -      -      -    0    944    0.0     0     0     0      -      -     -    -
+click-beep-alone           2      0      -      -      -       -      -      -      -    0    236    0.0     0     0     0      -      -     -    -
+click-mixed                8    491   78.4   0.02   2.79  2619.4   98.7  100.0   70.9    0     96    0.0     0     0     0    200    367   6/6    4
+clipped                    2    130  100.0   0.16   1.05     2.5  100.0  100.0   97.7    0     24    0.0     0     0     0    283    333   2/2    4
+decay-4s                   9    576  100.0   0.05   0.50    11.2  100.0  100.0   98.1    0     54    0.0     0     0     0    333    433   9/9    4
+detune-bass                8    504  100.0   0.13   0.27     3.8  100.0  100.0  100.0    0     96    0.0     0     0     0    333    367   8/8    5
+detune-chromatic           8    520  100.0   0.02   0.03     0.0  100.0  100.0  100.0    0     96    0.0     0     0     0    300    300     -    3
+detune-guitar             24   1608  100.0   0.02   0.06     0.3  100.0  100.0  100.0    0    288    0.0     0     0     0    200    200 21/21    3
+hum-alone                 10      0      -      -      -       -      -      -      -    0    700    0.0     0     0     0      -      -     -    -
+hum-under                 12    393   87.5   0.81  19.01    55.8   99.1  100.0   42.7    0    108    0.0     0     0     0    233    367 10/10    4
+missing-fundamental       10    608  100.0   0.04   0.11     0.8  100.0  100.0   99.0    0    120    0.0     0     0     0    200    333   3/4    4
+noise-alone               10      0      -      -      -       -      -      -      -    0   1210    0.0   230     0     0      -      -     -    -
+octave-ambiguous           2    120  100.0   0.01   0.01     0.0  100.0    0.0  100.0    0     24    0.0     0     0     2    167    167     -    3
+pluck-12string             6    402  100.0   0.03   0.17     1.1  100.0  100.0   99.0    0     72    0.0     0     0     0    200    200   6/6    3
+pluck-banjo                5    151  100.0   0.01   0.09     1.4  100.0  100.0   98.7    0     60    0.0     0     0     0    167    200   5/5    3
+pluck-bass                14    914  100.0   0.05   0.17     5.2  100.0  100.0   98.5    0    168    0.0     0     0     0    200    333 10/11    4
+pluck-bass-lowB            7    441   83.0   0.39   2.39    38.2  100.0  100.0   95.1    0     84    0.0     0     0     0    417   1000   7/7    5
+pluck-glide                4    260  100.0   0.01   0.51    13.2  100.0  100.0      -    0     48    0.0     0     0     0    200    433     -    4
+pluck-guitar              20   1340  100.0   0.02   0.05     1.0  100.0  100.0   99.0    0    240    0.0     0     0     0    200    200 18/18    3
+pluck-guitar-ext           6    378  100.0   0.03   0.11     0.9  100.0  100.0   99.2    0     72    0.0     0     0     0    267    333   3/6    4
+pluck-pizz                10    162  100.0   0.02   0.17     0.3  100.0  100.0   98.1    0    120    0.0     0     0     0    167    333  9/10    3
+pluck-ukulele             18    524  100.0   0.01   0.04     4.2  100.0  100.0   98.9    0    216    0.0     0     0     0    167    233 18/18    3
+quiet                      2    109  100.0   0.02   0.03     0.0  100.0  100.0   99.1    0     24    0.0     0     0     0    183    200   1/1    4
+safety-octave             13    779   37.9   0.02   0.05     0.7  100.0  100.0   99.7    0    156    0.0     0     0     0    200    333 12/12    3
+silence                    5      0      -      -      -       -      -      -      -    0    425    0.0     0     0     0      -      -     -    -
+snr10                     12    513   95.9   0.27   2.35    11.6  100.0  100.0   79.3    0    144    0.0     0     0     0    300    467   6/6    5
+snr20                     12    507  100.0   0.10   0.62     2.8  100.0  100.0   96.1    0    144    0.0     0     0     0    200    367   6/6    4
+snr30                     12    509  100.0   0.04   0.41     1.5  100.0  100.0   96.9    0    144    0.0     0     0     0    300    333   6/6    3
+string-change             14    899   99.9   0.02 2400.03  2400.2   93.1   93.1   96.5   62    168    0.0     0     0     0    200    367 25/25    4
+sustain-long               3    386  100.0   0.03   0.06     0.2  100.0  100.0   98.7    0     18    0.0     0     0     0    300    300     -    4
+sympathetic                3    201  100.0   0.01   0.34     2.3  100.0  100.0   98.5    0     36   47.2     0     0     0    200    200   3/3    4
+synth-harmonic            40   2352  100.0   0.02   0.28     7.1  100.0  100.0   99.9    0    480    0.0     0     0     0    200    367     -    3
+wind                      23   1365  100.0   0.01   0.11    12.0  100.0  100.0   99.8    0    276    0.0     0     0     0    300    433     -    3
+wind-vibrato               2    120  100.0   0.00   0.01     0.0  100.0  100.0      -    0     24    0.0     0     0     0    300    300     -    3
+
+A2:core                   99   6259  100.0   0.02   0.13     1.2  100.0  100.0   99.5    0      0      -     0     0     0    300    333     -    3
+A2:high                   11    665   90.2   0.01   0.01     0.0  100.0  100.0  100.0    0      0      -     0     0     0    167    300     -    3
+A2:inharmonic            176   9438   95.5   0.03   0.26  2400.2   99.3   99.3   97.6   62      0      -     0     0     0    200    333 171/177    3
+A2:inharmonic_strong       8    443   83.1   0.35   3.12    38.2  100.0  100.0   94.3    0      0      -     0     0     0    433   1000   8/8    5
+A2:low30_40               12    671  100.0   0.24   0.61    12.0  100.0  100.0   99.7    0      0      -     0     0     0    333    500     -    5
+A3:snr10                  18    712   90.2   0.39  10.74    55.8   99.5  100.0   68.5    0      0      -     0     0     0    300    467 11/11    5
+A3:snr20plus             337  19524   97.1   0.02   0.30  2400.2   99.5   99.6   98.4   62      0      -     0     0     0    200    367 181/187    3
+A5-decay(E1,B0,E2)         6    379  100.0   0.06   0.59    11.2  100.0  100.0   97.6    0     36    0.0     0     0     0    333    433   6/6    5
+
+Columns: evalF = frames inside evaluation windows; cover% = of those, frames showing a reading; med/p95/max = |cents| error of shown frames vs truth; note% = right note (octave included) among shown frames; tgt% = engine target string = expected; stat% = status in the expected set; harm = shown frames off by 7/12/19/24 semitones; nothF = frames where nothing must be shown (after grace); false% = of those, frames showing a reading; noisy = frames with status noisy in nothing-segments; wDirT/wDirL = "tighten" while sharp / "loosen" while flat (> tolerance+2 c); setl50/95 = settle ms (onset -> stable within +-2 c); sFail = settle over SPEC budget/budgeted onsets; 1stF = median frames from onset to first right-note reading.
+
+SPEC acceptance (measured on this set; A2 reuses the A1 limits):
+  A2:core              PASS  median 0.016 c (limit 0.5), p95 0.134 c (limit 1.0), coverage 100.0 %  [40-1000 Hz harmonic, SNR>=20]
+  A2:inharmonic        PASS  median 0.027 c (limit -), p95 0.256 c (limit 1.5), coverage 95.5 %  [plucks B<=5e-4 vs first partial]
+  A2:low30_40          PASS  median 0.239 c (limit -), p95 0.612 c (limit 2.0), coverage 100.0 %  [30-40 Hz]
+  A2:high              PASS  median 0.005 c (limit -), p95 0.010 c (limit 2.0), coverage 90.2 %  [1000-2100 Hz]
+  info:B>5e-4          median 0.352 c, p95 3.122 c, max 38.16 c (no SPEC limit; reported)
+  A3:snr20plus         PASS  right note 99.53 % of shown frames (limit 99.5 %), coverage 97.1 %
+  A3:snr10             PASS  right note 99.53 % of shown frames (limit 97.0 %), coverage 90.2 %
+  A3:hum-alone         PASS  false readings 0/700 frames (0.00 %) after grace; 1/630 inside the grace window  [hum alone shows no note]
+  A3:noise-alone       PASS  false readings 0/1210 frames (0.00 %) after grace; 0/0 inside the grace window  [noise alone <= 1 % frames]
+  A4 safety            PASS  0 "tighten" frames while >= 1 octave sharp of the target (204 shown frames on such notes)
+  SPEC 9 guard         PASS  0 "tighten" frames while > 300 c above the engine's own target (all files)
+  wrong direction      FAIL  0 "tighten" while sharp, 2 "loosen" while flat, of 11509 flat/sharp frames (all files)
+  A5 settle            FAIL  6/207 budgeted pluck onsets settle within 150 ms (82-1000 Hz) / 300 ms (< 70 Hz)
+  A5 octave flips      PASS  0 shown frames off by 7/12/19/24 semitones on the 4 s E1/B0/E2 decays (evaluation window + tail)
+  A5 steady display    FAIL  3 consecutive-frame displayCents changes > 1 on steady tones (max 5.0)
+
+Files needing a look (settle failures, wrong notes, false readings, wrong direction):
+  settle 001_pluck-guitar_E2_auto_48k_f32.wav: onset 0.5 s E2: settle 200 ms (budget 150)
+  settle 002_pluck-guitar_E2_electric_chrom_44k1_pcm16.wav: onset 0.5 s E2: settle 200 ms (budget 150)
+  settle 003_pluck-guitar_E2_phonemic_locked_48k_pcm16.wav: onset 0.5 s E2: settle 200 ms (budget 150)
+  settle 004_pluck-guitar_A2_auto_48k_f32.wav: onset 0.5 s A2: settle 200 ms (budget 150)
+  settle 005_pluck-guitar_A2_electric_chrom_44k1_pcm16.wav: onset 0.5 s A2: settle 200 ms (budget 150)
+  settle 006_pluck-guitar_A2_phonemic_locked_48k_pcm16.wav: onset 0.5 s A2: settle 200 ms (budget 150)
+  settle 007_pluck-guitar_D3_auto_48k_f32.wav: onset 0.5 s D3: settle 200 ms (budget 150)
+  settle 008_pluck-guitar_D3_electric_chrom_44k1_pcm16.wav: onset 0.5 s D3: settle 200 ms (budget 150)
+  settle 009_pluck-guitar_D3_phonemic_locked_48k_pcm16.wav: onset 0.5 s D3: settle 200 ms (budget 150)
+  settle 010_pluck-guitar_G3_auto_48k_f32.wav: onset 0.5 s G3: settle 200 ms (budget 150)
+  settle 011_pluck-guitar_G3_electric_chrom_44k1_pcm16.wav: onset 0.5 s G3: settle 200 ms (budget 150)
+  settle 012_pluck-guitar_G3_phonemic_locked_48k_pcm16.wav: onset 0.5 s G3: settle 200 ms (budget 150)
+  settle 013_pluck-guitar_B3_auto_48k_f32.wav: onset 0.5 s B3: settle 167 ms (budget 150)
+  settle 014_pluck-guitar_B3_electric_chrom_44k1_pcm16.wav: onset 0.5 s B3: settle 167 ms (budget 150)
+  settle 015_pluck-guitar_B3_phonemic_locked_48k_pcm16.wav: onset 0.5 s B3: settle 167 ms (budget 150)
+  settle 016_pluck-guitar_E4_auto_48k_f32.wav: onset 0.5 s E4: settle 167 ms (budget 150)
+  settle 017_pluck-guitar_E4_electric_chrom_44k1_pcm16.wav: onset 0.5 s E4: settle 167 ms (budget 150)
+  settle 018_pluck-guitar_E4_phonemic_locked_48k_pcm16.wav: onset 0.5 s E4: settle 167 ms (budget 150)
+  settle 022_pluck-guitar-ext_F#1_auto_48k_f32.wav: onset 0.5 s F#1: settle 333 ms (budget 300)
+  settle 023_pluck-guitar-ext_F#1_electric_chrom_44k1_pcm16.wav: onset 0.5 s F#1: settle 333 ms (budget 300)
+  settle 024_pluck-guitar-ext_F#1_phonemic_locked_44k1_f32.wav: onset 0.5 s F#1: settle 333 ms (budget 300)
+  settle 027_pluck-bass_E1_auto_48k_f32.wav: onset 0.5 s E1: settle 333 ms (budget 300)
+  settle 028_pluck-bass_E1_chrom_44k1_pcm16.wav: onset 0.5 s E1: settle 333 ms (budget 300)
+  settle 029_pluck-bass_E1_phonemic_locked_48k_pcm16.wav: onset 0.5 s E1: settle 333 ms (budget 300)
+  settle 030_pluck-bass_A1_auto_48k_f32.wav: onset 0.5 s A1: settle 333 ms (budget 300)
+  ... 176 more settle failures
+  375_octave-ambiguous_C4_even+weak3_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 0.01 c, max 0.0 c, false 0, wrongDir 0/2
+  350_string-change_guitar_E2-E4_500ms_48k_pcm16.wav: cover 100 %, note 13.9 %, p95 2400.07 c, max 2400.2 c, false 0, wrongDir 0/0
+  400_sympathetic_D3_with_A2_ringing_48k_pcm16.wav: cover 100 %, note 100.0 %, p95 1.00 c, max 1.7 c, false 7, wrongDir 0/0
+  399_sympathetic_A2_with_E2_ringing_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 0.67 c, max 2.3 c, false 6, wrongDir 0/0
+  398_sympathetic_G3_with_B3_ringing_48k_f32.wav: cover 100 %, note 100.0 %, p95 0.02 c, max 0.1 c, false 4, wrongDir 0/0
+  360_bend_D4violin_0to-50_48k_pcm16.wav: cover 100 %, note 63.1 %, p95 0.08 c, max 0.2 c, false 0, wrongDir 0/0
+  320_hum-under_E2_50Hz_snr10_48k_pcm16.wav: cover 76 %, note 84.2 %, p95 55.79 c, max 55.8 c, false 0, wrongDir 0/0
+  337_click-mixed_A3cello_wood100_44k1_pcm16.wav: cover 97 %, note 92.1 %, p95 2618.99 c, max 2619.4 c, false 0, wrongDir 0/0
+  361_bend_E4_+50to0_44k1_f32.wav: cover 100 %, note 94.0 %, p95 0.04 c, max 0.1 c, false 0, wrongDir 0/0
+  044_pluck-bass-lowB_B0_B8e-4_phonemic_locked_44k1_pcm16.wav: cover 81 %, note 100.0 %, p95 22.00 c, max 38.2 c, false 0, wrongDir 0/0
+  046_pluck-bass-lowB_B0_B2e-3_phonemic_locked_44k1_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  048_below-range_Fs0_auto_48k_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  049_below-range_Fs0_chrom_44k1_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  050_below-range_Fs0_phonemic_locked_48k_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  051_below-range_Fs0_synth_chrom_44k1_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  148_wind_tuba_D1_48k_pcm16.wav: cover 100 %, note 100.0 %, p95 3.75 c, max 12.0 c, false 0, wrongDir 0/0
+  282_snr10_E2pluck_white_48k_f32.wav: cover 76 %, note 100.0 %, p95 1.48 c, max 1.5 c, false 0, wrongDir 0/0
+  286_snr10_A1bass_white_48k_f32.wav: cover 62 %, note 100.0 %, p95 1.06 c, max 1.1 c, false 0, wrongDir 0/0
+  291_snr10_E1bass_pink_44k1_pcm16.wav: cover 96 %, note 100.0 %, p95 10.91 c, max 11.6 c, false 0, wrongDir 0/0
+  314_hum-under_E2_50Hz_snr20_48k_f32.wav: cover 100 %, note 100.0 %, p95 20.05 c, max 21.0 c, false 0, wrongDir 0/0
+  316_hum-under_E1_50Hz_snr20_48k_pcm16.wav: cover 100 %, note 100.0 %, p95 9.04 c, max 10.6 c, false 0, wrongDir 0/0
+  321_hum-under_A2_60Hz_snr10_44k1_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  322_hum-under_E1_50Hz_snr10_48k_f32.wav: cover 59 %, note 100.0 %, p95 29.33 c, max 29.3 c, false 0, wrongDir 0/0
+  323_hum-under_A1_60Hz_snr10_44k1_pcm16.wav: cover 90 %, note 100.0 %, p95 10.63 c, max 12.3 c, false 0, wrongDir 0/0
+  324_hum-under_G3violin_50Hz_snr10_48k_pcm16.wav: cover 100 %, note 100.0 %, p95 3.10 c, max 8.0 c, false 0, wrongDir 0/0
+  338_click-mixed_G4uke_noise160_48k_pcm16.wav: cover 77 %, note 100.0 %, p95 0.01 c, max 0.0 c, false 0, wrongDir 0/0
+  339_click-mixed_B0_wood90_44k1_f32.wav: cover 90 %, note 100.0 %, p95 15.76 c, max 15.8 c, false 0, wrongDir 0/0
+  341_click-mixed_E4_wood120_44k1_pcm16.wav: cover 43 %, note 100.0 %, p95 0.03 c, max 0.0 c, false 0, wrongDir 0/0
+  342_click-mixed_D3_tick140_48k_pcm16.wav: cover 79 %, note 100.0 %, p95 0.33 c, max 1.0 c, false 0, wrongDir 0/0
+  343_click-mixed_E1_wood120_44k1_f32.wav: cover 78 %, note 100.0 %, p95 0.79 c, max 2.1 c, false 0, wrongDir 0/0
+  381_safety-octave_lockE2_playE3_48k_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  383_safety-octave_lockE4_playE5_48k_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  384_safety-octave_lockA2_playA3_44k1_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  386_safety-octave_bass_lockE1_playE2_44k1_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  387_safety-octave_bass5_lockB0_playB1_48k_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  389_safety-octave_violin_lockE5_playE6_48k_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  390_safety-octave_lockD3_playD4+25c_44k1_pcm16.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+  393_safety-octave_auto_playE5_48k_f32.wav: cover 0 %, note - %, p95 - c, max - c, false 0, wrongDir 0/0
+Per-file detail: python3 check.py OUTPUTS --file <name>
+JSON report written to test/blind/pitch-1/report-e55774b.json

@@ -1,0 +1,4002 @@
+[
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 0,
+  "onset": 0.0936,
+  "nominal": "E2",
+  "why": "catalogue check failed: -43.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 1,
+  "onset": 6.6183,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 2,
+  "onset": 8.036,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 3,
+  "onset": 10.7626,
+  "nominal": "F2",
+  "why": "catalogue check failed: -38.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 4,
+  "onset": 17.89,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 5,
+  "onset": 19.3318,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 6,
+  "onset": 20.54,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 7,
+  "onset": 22.7351,
+  "nominal": "F#2",
+  "why": "catalogue check failed: -41.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 8,
+  "onset": 29.31,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 9,
+  "onset": 31.2211,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 10,
+  "onset": 32.27,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulE.E2B2.mono.aif",
+  "index": 11,
+  "onset": 33.9923,
+  "nominal": "G2",
+  "why": "only 0.68 s after the onset",
+  "catalogue_offset_cents": -41.366
+ },
+ {
+  "source": "Guitar.ff.sulE.E2B2.mono.aif",
+  "index": 0,
+  "onset": 0.04,
+  "nominal": "E2",
+  "why": "catalogue check failed: -43.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.ff.sulE.E2B2.mono.aif",
+  "index": 1,
+  "onset": 19.1219,
+  "nominal": "F2",
+  "why": "only 1.66 s after the onset",
+  "catalogue_offset_cents": -38.092
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 0,
+  "onset": 0.04,
+  "nominal": "A2",
+  "why": "catalogue check failed: -30.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 1,
+  "onset": 7.47,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 2,
+  "onset": 8.74,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 3,
+  "onset": 12.5282,
+  "nominal": "A#2",
+  "why": "catalogue check failed: -22.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 4,
+  "onset": 18.06,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 5,
+  "onset": 19.08,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 6,
+  "onset": 23.6058,
+  "nominal": "B2",
+  "why": "catalogue check failed: -24.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 7,
+  "onset": 29.5,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulA.A2B2.mono.aif",
+  "index": 8,
+  "onset": 30.58,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 0,
+  "onset": 0.0306,
+  "nominal": "D3",
+  "why": "catalogue check failed: -25.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 1,
+  "onset": 8.37,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 2,
+  "onset": 9.7,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 3,
+  "onset": 10.79,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 4,
+  "onset": 11.74,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 5,
+  "onset": 12.8,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 6,
+  "onset": 14.24,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 7,
+  "onset": 15.46,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 8,
+  "onset": 17.7542,
+  "nominal": "D#3",
+  "why": "catalogue check failed: -22.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 9,
+  "onset": 26.44,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 10,
+  "onset": 27.84,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulD.D3B3.mono.aif",
+  "index": 11,
+  "onset": 28.94,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 0,
+  "onset": 0.0283,
+  "nominal": "G3",
+  "why": "catalogue check failed: -21.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 1,
+  "onset": 3.52,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 2,
+  "onset": 4.54,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 3,
+  "onset": 5.59,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 4,
+  "onset": 6.33,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 5,
+  "onset": 7.6259,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 6,
+  "onset": 8.61,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 7,
+  "onset": 9.92,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 8,
+  "onset": 11.2825,
+  "nominal": "G#3",
+  "why": "only 2.00 s after the onset",
+  "catalogue_offset_cents": -18.667
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 9,
+  "onset": 13.33,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 10,
+  "onset": 14.4784,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 11,
+  "onset": 15.46,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 12,
+  "onset": 16.45,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 13,
+  "onset": 17.5155,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 14,
+  "onset": 18.9767,
+  "nominal": "A3",
+  "why": "catalogue check failed: -17.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 15,
+  "onset": 21.17,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 16,
+  "onset": 22.1,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 17,
+  "onset": 23.2,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 18,
+  "onset": 24.14,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 19,
+  "onset": 25.31,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 20,
+  "onset": 26.34,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 21,
+  "onset": 27.6678,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -13.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulG.G3B3.mono.aif",
+  "index": 22,
+  "onset": 29.79,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 0,
+  "onset": 0.0133,
+  "nominal": "B3",
+  "why": "catalogue check failed: -22.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 1,
+  "onset": 3.67,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 2,
+  "onset": 4.8,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 3,
+  "onset": 5.86,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 4,
+  "onset": 6.89,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 5,
+  "onset": 7.81,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 6,
+  "onset": 9.06,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sulB.B3.mono.aif",
+  "index": 7,
+  "onset": 10.25,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 0,
+  "onset": 0.0383,
+  "nominal": "E4",
+  "why": "catalogue check failed: -24.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 1,
+  "onset": 2.53,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 2,
+  "onset": 3.3532,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 3,
+  "onset": 4.58,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 4,
+  "onset": 5.5,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 5,
+  "onset": 7.18,
+  "nominal": "F4",
+  "why": "catalogue check failed: -20.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 6,
+  "onset": 10.43,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 7,
+  "onset": 11.38,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 8,
+  "onset": 12.42,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 9,
+  "onset": 13.44,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 10,
+  "onset": 14.62,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 11,
+  "onset": 15.5626,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -20.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 12,
+  "onset": 18.66,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 13,
+  "onset": 19.57,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 14,
+  "onset": 20.78,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 15,
+  "onset": 21.9,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 16,
+  "onset": 22.889,
+  "nominal": "G4",
+  "why": "catalogue check failed: -20.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 17,
+  "onset": 25.43,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 18,
+  "onset": 26.38,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 19,
+  "onset": 27.5342,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.E4B4.mono.aif",
+  "index": 20,
+  "onset": 30.0439,
+  "nominal": "G#4",
+  "why": "only 1.15 s after the onset",
+  "catalogue_offset_cents": -19.507
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 0,
+  "onset": 0.02,
+  "nominal": "C5",
+  "why": "only 1.33 s after the onset",
+  "catalogue_offset_cents": -15.925
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 1,
+  "onset": 1.4,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 2,
+  "onset": 2.5244,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 3,
+  "onset": 3.78,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 4,
+  "onset": 5.6488,
+  "nominal": "C#5",
+  "why": "only 1.55 s after the onset",
+  "catalogue_offset_cents": -23.696
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 5,
+  "onset": 7.25,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 6,
+  "onset": 8.14,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 7,
+  "onset": 9.25,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 8,
+  "onset": 10.27,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 9,
+  "onset": 11.6354,
+  "nominal": "D5",
+  "why": "only 1.58 s after the onset",
+  "catalogue_offset_cents": -23.085
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 10,
+  "onset": 13.27,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 11,
+  "onset": 14.42,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 12,
+  "onset": 15.5866,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 13,
+  "onset": 16.58,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 14,
+  "onset": 17.9291,
+  "nominal": "D#5",
+  "why": "only 1.52 s after the onset",
+  "catalogue_offset_cents": -19.465
+ },
+ {
+  "source": "Guitar.mf.sul_E.C5B5.mono.aif",
+  "index": 15,
+  "onset": 19.5,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.arco.mf.sulE.E1B1.aiff",
+  "index": 3,
+  "onset": 13.723,
+  "nominal": "G1",
+  "why": "catalogue check failed: -9.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulE.E1B1.aiff",
+  "index": 4,
+  "onset": 17.7767,
+  "nominal": "G#1",
+  "why": "catalogue check failed: -6.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulE.E1B1.aiff",
+  "index": 5,
+  "onset": 21.9568,
+  "nominal": "A1",
+  "why": "catalogue check failed: -20.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulE.E1B1.aiff",
+  "index": 6,
+  "onset": 25.909,
+  "nominal": "A#1",
+  "why": "catalogue check failed: -11.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulE.E1B1.aiff",
+  "index": 7,
+  "onset": 29.5788,
+  "nominal": "B1",
+  "why": "catalogue check failed: -5.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulD.D2B2.aiff",
+  "index": 2,
+  "onset": 8.32,
+  "nominal": "E2",
+  "why": "catalogue check failed: -7.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulD.D2B2.aiff",
+  "index": 7,
+  "onset": 26.1396,
+  "nominal": "A2",
+  "why": "catalogue check failed: -5.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulD.D2B2.aiff",
+  "index": 9,
+  "onset": 33.46,
+  "nominal": "B2",
+  "why": "catalogue check failed: 9.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.G2B2.aiff",
+  "index": 1,
+  "onset": 5.7644,
+  "nominal": "G#2",
+  "why": "catalogue check failed: 8.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.G2B2.aiff",
+  "index": 2,
+  "onset": 9.4241,
+  "nominal": "A2",
+  "why": "catalogue check failed: -6.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.G2B2.aiff",
+  "index": 3,
+  "onset": 13.3528,
+  "nominal": "A#2",
+  "why": "catalogue check failed: -12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 0,
+  "onset": 2.064,
+  "nominal": "C3",
+  "why": "catalogue check failed: -5.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 1,
+  "onset": 8.33,
+  "nominal": "C#3",
+  "why": "catalogue check failed: -8.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 3,
+  "onset": 19.12,
+  "nominal": "D#3",
+  "why": "catalogue check failed: -6.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 4,
+  "onset": 25.1301,
+  "nominal": "E3",
+  "why": "catalogue check failed: 6.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 5,
+  "onset": 30.0612,
+  "nominal": "F3",
+  "why": "catalogue check failed: 25.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 9,
+  "onset": 52.33,
+  "nominal": "A3",
+  "why": "catalogue check failed: -9.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.mf.sulG.C3B3.aiff",
+  "index": 11,
+  "onset": 63.14,
+  "nominal": "B3",
+  "why": "catalogue check failed: -13.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 0,
+  "onset": 0.3935,
+  "nominal": "E1",
+  "why": "catalogue check failed: -14.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 1,
+  "onset": 7.0084,
+  "nominal": "F1",
+  "why": "catalogue check failed: -21.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 2,
+  "onset": 12.5204,
+  "nominal": "F#1",
+  "why": "catalogue check failed: -15.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 4,
+  "onset": 20.12,
+  "nominal": "G#1",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 5,
+  "onset": 27.6788,
+  "nominal": "A1",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 6,
+  "onset": 32.6525,
+  "nominal": "A#1",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulE.E1B1.aiff",
+  "index": 7,
+  "onset": 38.0147,
+  "nominal": "B1",
+  "why": "catalogue check failed: 21.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.ff.sulA.A1B1.aiff",
+  "index": 0,
+  "onset": 1.6681,
+  "nominal": "A1",
+  "why": "catalogue check failed: -16.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.ff.sulA.A1B1.aiff",
+  "index": 1,
+  "onset": 7.935,
+  "nominal": "A#1",
+  "why": "catalogue check failed: -23.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.ff.sulA.A1B1.aiff",
+  "index": 2,
+  "onset": 12.2489,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 0,
+  "onset": 1.4851,
+  "nominal": "D2",
+  "why": "catalogue check failed: -15.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 2,
+  "onset": 13.0015,
+  "nominal": "E2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 3,
+  "onset": 18.6502,
+  "nominal": "F2",
+  "why": "catalogue check failed: -23.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 4,
+  "onset": 24.0115,
+  "nominal": "F#2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 6,
+  "onset": 33.3771,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 8,
+  "onset": 39.5865,
+  "nominal": "A2",
+  "why": "catalogue check failed: -8.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 9,
+  "onset": 43.8358,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulD.D2B2.aiff",
+  "index": 10,
+  "onset": 48.5571,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.G2B2.aiff",
+  "index": 0,
+  "onset": 1.8902,
+  "nominal": "G2",
+  "why": "catalogue check failed: -11.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 0,
+  "onset": 2.1766,
+  "nominal": "C3",
+  "why": "catalogue check failed: -6.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 1,
+  "onset": 7.7732,
+  "nominal": "C#3",
+  "why": "catalogue check failed: -9.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 5,
+  "onset": 25.3898,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 7,
+  "onset": 30.8529,
+  "nominal": "F#3",
+  "why": "catalogue check failed: -9.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 9,
+  "onset": 40.1843,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 10,
+  "onset": 44.5928,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 11,
+  "onset": 48.7201,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.pizz.mf.sulG.C3B3.aiff",
+  "index": 12,
+  "onset": 53.0683,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 0,
+  "onset": 6.4833,
+  "nominal": "C2",
+  "why": "catalogue check failed: 5.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 2,
+  "onset": 20.5874,
+  "nominal": "D2",
+  "why": "catalogue check failed: -18.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 3,
+  "onset": 26.8774,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 4,
+  "onset": 32.68,
+  "nominal": "D#2",
+  "why": "catalogue check failed: -5.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 5,
+  "onset": 38.6546,
+  "nominal": "E2",
+  "why": "catalogue check failed: -26.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 6,
+  "onset": 45.4095,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 7,
+  "onset": 51.5771,
+  "nominal": "F2",
+  "why": "catalogue check failed: 11.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 10,
+  "onset": 71.2653,
+  "nominal": "G#2",
+  "why": "catalogue check failed: -41.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulC.C2Ab2.aiff",
+  "index": 11,
+  "onset": 77.11,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Cello.arco.ff.sulG.G2B2.aiff",
+  "index": 0,
+  "onset": 1.5028,
+  "nominal": "G2",
+  "why": "catalogue check failed: 5.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.ff.sulG.G2B2.aiff",
+  "index": 1,
+  "onset": 14.4648,
+  "nominal": "G#2",
+  "why": "catalogue check failed: 12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.ff.sulG.G2B2.aiff",
+  "index": 2,
+  "onset": 25.7,
+  "nominal": "A2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Cello.arco.ff.sulG.G2B2.aiff",
+  "index": 3,
+  "onset": 36.5076,
+  "nominal": "A#2",
+  "why": "catalogue check failed: -43.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.ff.sulG.G2B2.aiff",
+  "index": 4,
+  "onset": 46.15,
+  "nominal": "B2",
+  "why": "own estimate 119.165 Hz is -61.5 c from the catalogue note"
+ },
+ {
+  "source": "Cello.arco.mf.sulD.D3B3.aiff",
+  "index": 1,
+  "onset": 14.36,
+  "nominal": "D#3",
+  "why": "catalogue check failed: -26.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulD.D3B3.aiff",
+  "index": 2,
+  "onset": 23.8413,
+  "nominal": "E3",
+  "why": "catalogue check failed: -32.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulD.D3B3.aiff",
+  "index": 3,
+  "onset": 32.5381,
+  "nominal": "F3",
+  "why": "own estimate 169.277 Hz is -53.7 c from the catalogue note"
+ },
+ {
+  "source": "Cello.arco.mf.sulD.D3B3.aiff",
+  "index": 4,
+  "onset": 39.8325,
+  "nominal": "F#3",
+  "why": "own estimate 177.901 Hz is -67.7 c from the catalogue note"
+ },
+ {
+  "source": "Cello.arco.mf.sulD.D3B3.aiff",
+  "index": 5,
+  "onset": 47.27,
+  "nominal": "G3",
+  "why": "own estimate 188.466 Hz is -67.8 c from the catalogue note"
+ },
+ {
+  "source": "Cello.arco.mf.sulD.D3B3.aiff",
+  "index": 6,
+  "onset": 55.28,
+  "nominal": "G#3",
+  "why": "catalogue check failed: -32.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.A3B3.aiff",
+  "index": 1,
+  "onset": 7.844,
+  "nominal": "A#3",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.A3B3.aiff",
+  "index": 2,
+  "onset": 8.7053,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.A3B3.aiff",
+  "index": 3,
+  "onset": 16.3073,
+  "nominal": "B3",
+  "why": "catalogue check failed: -35.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 0,
+  "onset": 2.03,
+  "nominal": "C4",
+  "why": "catalogue check failed: -24.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 1,
+  "onset": 8.6817,
+  "nominal": "C#4",
+  "why": "catalogue check failed: -47.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 2,
+  "onset": 15.1861,
+  "nominal": "D4",
+  "why": "catalogue check failed: -47.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 3,
+  "onset": 21.7843,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -6.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 6,
+  "onset": 40.381,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -16.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 7,
+  "onset": 46.0407,
+  "nominal": "G4",
+  "why": "catalogue check failed: 12.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 8,
+  "onset": 52.74,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 9,
+  "onset": 57.4063,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 10,
+  "onset": 63.22,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Cello.arco.mf.sulA.C4C5.aiff",
+  "index": 11,
+  "onset": 69.04,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 1,
+  "onset": 16.049,
+  "nominal": "C#2",
+  "why": "catalogue check failed: -34.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 2,
+  "onset": 23.0709,
+  "nominal": "D2",
+  "why": "catalogue check failed: -48.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 3,
+  "onset": 30.7451,
+  "nominal": "D#2",
+  "why": "catalogue check failed: -22.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 4,
+  "onset": 37.8205,
+  "nominal": "E2",
+  "why": "catalogue check failed: -43.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 5,
+  "onset": 44.4725,
+  "nominal": "F2",
+  "why": "catalogue check failed: -37.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 6,
+  "onset": 51.1034,
+  "nominal": "F#2",
+  "why": "catalogue check failed: -27.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 7,
+  "onset": 58.2862,
+  "nominal": "G2",
+  "why": "catalogue check failed: -9.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 8,
+  "onset": 65.511,
+  "nominal": "G#2",
+  "why": "catalogue check failed: -48.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 9,
+  "onset": 72.34,
+  "nominal": "A2",
+  "why": "catalogue check failed: -32.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 10,
+  "onset": 78.8433,
+  "nominal": "A#2",
+  "why": "catalogue check failed: -18.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulC.C2B2.aiff",
+  "index": 11,
+  "onset": 84.95,
+  "nominal": "B2",
+  "why": "catalogue check failed: -19.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulG.G2B2.aiff",
+  "index": 1,
+  "onset": 14.9898,
+  "nominal": "G#2",
+  "why": "catalogue check failed: -6.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulG.G2B2.aiff",
+  "index": 2,
+  "onset": 23.4266,
+  "nominal": "A2",
+  "why": "own estimate 106.769 Hz is -51.6 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.mf.sulG.G2B2.aiff",
+  "index": 3,
+  "onset": 31.6507,
+  "nominal": "A#2",
+  "why": "own estimate 112.600 Hz is -59.6 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.mf.sulG.G2B2.aiff",
+  "index": 4,
+  "onset": 38.34,
+  "nominal": "B2",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 0,
+  "onset": 2.2692,
+  "nominal": "D3",
+  "why": "catalogue check failed: -13.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 1,
+  "onset": 12.0617,
+  "nominal": "D#3",
+  "why": "catalogue check failed: -23.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 2,
+  "onset": 20.4362,
+  "nominal": "E3",
+  "why": "catalogue check failed: -35.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 3,
+  "onset": 26.7194,
+  "nominal": "F3",
+  "why": "own estimate 169.623 Hz is -50.2 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 4,
+  "onset": 33.6885,
+  "nominal": "F#3",
+  "why": "own estimate 179.718 Hz is -50.1 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 5,
+  "onset": 41.0555,
+  "nominal": "G3",
+  "why": "own estimate 189.500 Hz is -58.4 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 6,
+  "onset": 47.132,
+  "nominal": "G#3",
+  "why": "evaluation span too short (1 frames)"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 7,
+  "onset": 53.0139,
+  "nominal": "A3",
+  "why": "catalogue check failed: -18.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulD.D3B3.aiff",
+  "index": 8,
+  "onset": 58.7968,
+  "nominal": "A#3",
+  "why": "catalogue check failed: 8.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulA.A3B3.aiff",
+  "index": 1,
+  "onset": 8.3329,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -12.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.mf.sulA.A3B3.aiff",
+  "index": 2,
+  "onset": 15.2734,
+  "nominal": "B3",
+  "why": "catalogue check failed: -35.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 0,
+  "onset": 1.92,
+  "nominal": "C4",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 1,
+  "onset": 7.73,
+  "nominal": "C#4",
+  "why": "catalogue check failed: -35.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 2,
+  "onset": 14.31,
+  "nominal": "D4",
+  "why": "catalogue check failed: -9.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 3,
+  "onset": 23.7321,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -7.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 4,
+  "onset": 30.04,
+  "nominal": "E4",
+  "why": "catalogue check failed: 8.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 5,
+  "onset": 35.8659,
+  "nominal": "F4",
+  "why": "catalogue check failed: 32.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 6,
+  "onset": 42.0542,
+  "nominal": "F#4",
+  "why": "catalogue check failed: 32.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 7,
+  "onset": 48.1527,
+  "nominal": "G4",
+  "why": "catalogue check failed: 14.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 8,
+  "onset": 54.7096,
+  "nominal": "G#4",
+  "why": "own estimate 145.776 Hz is -1812.5 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 9,
+  "onset": 60.2047,
+  "nominal": "A4",
+  "why": "own estimate 65.456 Hz is -3298.7 c from the catalogue note"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 10,
+  "onset": 66.0899,
+  "nominal": "A#4",
+  "why": "evaluation span too short (11 frames)"
+ },
+ {
+  "source": "Cello.pizz.ff.sulA.C4B4.aiff",
+  "index": 11,
+  "onset": 71.6986,
+  "nominal": "B4",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 1,
+  "onset": 5.6276,
+  "nominal": "C#3",
+  "why": "catalogue check failed: -8.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 4,
+  "onset": 21.5718,
+  "nominal": "E3",
+  "why": "catalogue check failed: 10.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 5,
+  "onset": 27.3813,
+  "nominal": "F3",
+  "why": "catalogue check failed: 26.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 6,
+  "onset": 31.6242,
+  "nominal": "F#3",
+  "why": "catalogue check failed: 19.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 7,
+  "onset": 37.5065,
+  "nominal": "G3",
+  "why": "catalogue check failed: 16.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 9,
+  "onset": 47.452,
+  "nominal": "A3",
+  "why": "catalogue check failed: 5.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.mf.C3B3.aiff",
+  "index": 10,
+  "onset": 51.8358,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -21.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulG.mf.G3B3.aiff",
+  "index": 1,
+  "onset": 6.1027,
+  "nominal": "G#3",
+  "why": "catalogue check failed: -13.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulG.mf.G3B3.aiff",
+  "index": 2,
+  "onset": 12.3277,
+  "nominal": "A3",
+  "why": "catalogue check failed: -19.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 1,
+  "onset": 6.2124,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -10.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 2,
+  "onset": 12.7944,
+  "nominal": "E4",
+  "why": "catalogue check failed: -28.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 3,
+  "onset": 19.1812,
+  "nominal": "F4",
+  "why": "catalogue check failed: -19.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 4,
+  "onset": 25.211,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -10.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 6,
+  "onset": 37.4996,
+  "nominal": "G#4",
+  "why": "catalogue check failed: -22.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 7,
+  "onset": 43.4378,
+  "nominal": "A4",
+  "why": "catalogue check failed: -12.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 8,
+  "onset": 49.4332,
+  "nominal": "A#4",
+  "why": "catalogue check failed: -20.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulD.mf.D4B4.aiff",
+  "index": 9,
+  "onset": 55.1799,
+  "nominal": "B4",
+  "why": "catalogue check failed: -14.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.A4B4.aiff",
+  "index": 2,
+  "onset": 8.9824,
+  "nominal": "B4",
+  "why": "catalogue check failed: -12.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 0,
+  "onset": 0.022,
+  "nominal": "C5",
+  "why": "catalogue check failed: 7.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 2,
+  "onset": 9.1035,
+  "nominal": "D5",
+  "why": "catalogue check failed: 6.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 4,
+  "onset": 17.9944,
+  "nominal": "E5",
+  "why": "catalogue check failed: 7.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 5,
+  "onset": 23.0074,
+  "nominal": "F5",
+  "why": "catalogue check failed: -14.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 7,
+  "onset": 33.3629,
+  "nominal": "G5",
+  "why": "catalogue check failed: -17.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 9,
+  "onset": 41.4114,
+  "nominal": "A5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 10,
+  "onset": 45.469,
+  "nominal": "A#5",
+  "why": "catalogue check failed: 11.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulA.mf.C5B5.aiff",
+  "index": 11,
+  "onset": 50.008,
+  "nominal": "B5",
+  "why": "catalogue check failed: 16.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 0,
+  "onset": 0.0087,
+  "nominal": "C3",
+  "why": "only 1.11 s after the onset",
+  "catalogue_offset_cents": -10.401
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 1,
+  "onset": 1.1676,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 2,
+  "onset": 2.7828,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 3,
+  "onset": 3.6433,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 4,
+  "onset": 5.4906,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 5,
+  "onset": 6.3265,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 6,
+  "onset": 7.3199,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 7,
+  "onset": 8.3033,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 8,
+  "onset": 9.3926,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 9,
+  "onset": 10.5143,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulC.mf.C3B3.aiff",
+  "index": 10,
+  "onset": 11.5564,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Viola.pizz.sulG.mf.G3B3.aiff",
+  "index": 0,
+  "onset": 0.016,
+  "nominal": "G3",
+  "why": "reading too short after attack (0.33 s)",
+  "catalogue_offset_cents": -7.737
+ },
+ {
+  "source": "Viola.pizz.sulG.mf.G3B3.aiff",
+  "index": 1,
+  "onset": 2.2892,
+  "nominal": "G#3",
+  "why": "evaluation span too short (14 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulG.mf.G3B3.aiff",
+  "index": 2,
+  "onset": 4.2113,
+  "nominal": "A3",
+  "why": "reading too short after attack (0.31 s)",
+  "catalogue_offset_cents": -42.052
+ },
+ {
+  "source": "Viola.pizz.sulG.mf.G3B3.aiff",
+  "index": 3,
+  "onset": 6.4012,
+  "nominal": "A#3",
+  "why": "reading too short after attack (0.46 s)",
+  "catalogue_offset_cents": -36.44
+ },
+ {
+  "source": "Viola.pizz.sulG.mf.G3B3.aiff",
+  "index": 4,
+  "onset": 8.5918,
+  "nominal": "B3",
+  "why": "only 1.37 s after the onset",
+  "catalogue_offset_cents": -22.521
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 0,
+  "onset": 0.0468,
+  "nominal": "D4",
+  "why": "only 1.73 s after the onset",
+  "catalogue_offset_cents": -5.944
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 1,
+  "onset": 1.83,
+  "nominal": "D#4",
+  "why": "evaluation span too short (22 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 2,
+  "onset": 4.4521,
+  "nominal": "E4",
+  "why": "reading too short after attack (0.32 s)",
+  "catalogue_offset_cents": -26.589
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 3,
+  "onset": 6.5634,
+  "nominal": "F4",
+  "why": "reading too short after attack (0.38 s)",
+  "catalogue_offset_cents": -35.522
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 4,
+  "onset": 9.3352,
+  "nominal": "F#4",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 5,
+  "onset": 11.5267,
+  "nominal": "G4",
+  "why": "evaluation span too short (29 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 6,
+  "onset": 13.5792,
+  "nominal": "G#4",
+  "why": "evaluation span too short (12 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 7,
+  "onset": 15.6303,
+  "nominal": "A4",
+  "why": "evaluation span too short (16 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 8,
+  "onset": 17.6826,
+  "nominal": "A#4",
+  "why": "evaluation span too short (22 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulD.mf.D4B4.aiff",
+  "index": 9,
+  "onset": 19.8022,
+  "nominal": "B4",
+  "why": "evaluation span too short (12 frames)"
+ },
+ {
+  "source": "Viola.pizz.sulA.mf.A4B4.aiff",
+  "index": 0,
+  "onset": 0.0399,
+  "nominal": "A4",
+  "why": "only 1.13 s after the onset",
+  "catalogue_offset_cents": 3.262
+ },
+ {
+  "source": "Viola.pizz.sulA.mf.A4B4.aiff",
+  "index": 1,
+  "onset": 1.2154,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.mf.sulG.G3B3.aiff",
+  "index": 0,
+  "onset": 1.931,
+  "nominal": "G3",
+  "why": "catalogue check failed: -7.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulG.G3B3.aiff",
+  "index": 1,
+  "onset": 11.7195,
+  "nominal": "G#3",
+  "why": "catalogue check failed: -9.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulG.G3B3.aiff",
+  "index": 2,
+  "onset": 21.3699,
+  "nominal": "A3",
+  "why": "catalogue check failed: -9.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulG.G3B3.aiff",
+  "index": 3,
+  "onset": 31.2171,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -35.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulG.G3B3.aiff",
+  "index": 4,
+  "onset": 42.04,
+  "nominal": "B3",
+  "why": "catalogue check failed: -45.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 0,
+  "onset": 2.3208,
+  "nominal": "D4",
+  "why": "catalogue check failed: -12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 1,
+  "onset": 11.5604,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -7.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 2,
+  "onset": 21.1073,
+  "nominal": "E4",
+  "why": "catalogue check failed: -31.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 3,
+  "onset": 30.2118,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 4,
+  "onset": 40.3936,
+  "nominal": "F4",
+  "why": "catalogue check failed: 23.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 5,
+  "onset": 50.4956,
+  "nominal": "F#4",
+  "why": "catalogue check failed: 7.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 6,
+  "onset": 60.0228,
+  "nominal": "G4",
+  "why": "catalogue check failed: -16.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 7,
+  "onset": 69.1301,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Violin.arco.mf.sulD.D4A4.aiff",
+  "index": 9,
+  "onset": 89.2626,
+  "nominal": "A4",
+  "why": "catalogue check failed: -15.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulA.A4B4.aiff",
+  "index": 0,
+  "onset": 2.5359,
+  "nominal": "A4",
+  "why": "catalogue check failed: -7.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulA.A4B4.aiff",
+  "index": 1,
+  "onset": 12.3992,
+  "nominal": "A#4",
+  "why": "catalogue check failed: -19.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulA.A4B4.aiff",
+  "index": 2,
+  "onset": 22.6057,
+  "nominal": "B4",
+  "why": "catalogue check failed: -19.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulE.E5B5.aiff",
+  "index": 1,
+  "onset": 11.67,
+  "nominal": "F5",
+  "why": "catalogue check failed: -18.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulE.E5B5.aiff",
+  "index": 3,
+  "onset": 32.3992,
+  "nominal": "G5",
+  "why": "catalogue check failed: -13.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulE.E5B5.aiff",
+  "index": 4,
+  "onset": 43.3201,
+  "nominal": "G#5",
+  "why": "catalogue check failed: -19.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulE.E5B5.aiff",
+  "index": 5,
+  "onset": 53.8701,
+  "nominal": "A5",
+  "why": "catalogue check failed: 13.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.mf.sulE.E5B5.aiff",
+  "index": 6,
+  "onset": 63.7621,
+  "nominal": "A#5",
+  "why": "catalogue check failed: -9.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 0,
+  "onset": 1.6229,
+  "nominal": "C6",
+  "why": "catalogue check failed: -14.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 1,
+  "onset": 10.7502,
+  "nominal": "C#6",
+  "why": "catalogue check failed: 49.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 2,
+  "onset": 20.4778,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 3,
+  "onset": 30.0634,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 4,
+  "onset": 39.4536,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 5,
+  "onset": 48.4502,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 6,
+  "onset": 56.29,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 7,
+  "onset": 64.3101,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 8,
+  "onset": 71.9986,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 9,
+  "onset": 81.4602,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 10,
+  "onset": 89.5204,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.arco.ff.sulE.C6Gb7.aiff",
+  "index": 11,
+  "onset": 97.9106,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.mf.sulG.G3B3.aiff",
+  "index": 0,
+  "onset": 1.6635,
+  "nominal": "G3",
+  "why": "catalogue check failed: -12.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulG.G3B3.aiff",
+  "index": 1,
+  "onset": 6.7955,
+  "nominal": "G#3",
+  "why": "own estimate 102.958 Hz is -1214.5 c from the catalogue note"
+ },
+ {
+  "source": "Violin.pizz.mf.sulG.G3B3.aiff",
+  "index": 2,
+  "onset": 11.7598,
+  "nominal": "A3",
+  "why": "evaluation span too short (1 frames)"
+ },
+ {
+  "source": "Violin.pizz.mf.sulG.G3B3.aiff",
+  "index": 3,
+  "onset": 17.2339,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -43.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulG.G3B3.aiff",
+  "index": 4,
+  "onset": 22.7441,
+  "nominal": "B3",
+  "why": "own estimate 239.454 Hz is -53.3 c from the catalogue note"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 0,
+  "onset": 2.2463,
+  "nominal": "D4",
+  "why": "catalogue check failed: -15.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 1,
+  "onset": 8.5036,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 2,
+  "onset": 14.01,
+  "nominal": "D#4",
+  "why": "reading too short after attack (0.68 s)",
+  "catalogue_offset_cents": 32.607
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 3,
+  "onset": 19.73,
+  "nominal": "E4",
+  "why": "catalogue check failed: -6.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 4,
+  "onset": 26.8948,
+  "nominal": "F4",
+  "why": "catalogue check failed: -27.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 5,
+  "onset": 33.6316,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 6,
+  "onset": 40.1746,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -9.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 7,
+  "onset": 46.4805,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 8,
+  "onset": 53.2719,
+  "nominal": "G4",
+  "why": "catalogue check failed: 34.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Violin.pizz.mf.sulD.D4Ab4.aiff",
+  "index": 9,
+  "onset": 59.9499,
+  "nominal": "G#4",
+  "why": "reading too short after attack (0.38 s)",
+  "catalogue_offset_cents": 9.631
+ },
+ {
+  "source": "Violin.pizz.mf.sulA.A4B4.aiff",
+  "index": 1,
+  "onset": 6.877,
+  "nominal": "A#4",
+  "why": "reading too short after attack (0.62 s)",
+  "catalogue_offset_cents": -38.322
+ },
+ {
+  "source": "Violin.pizz.mf.sulA.A4B4.aiff",
+  "index": 2,
+  "onset": 12.112,
+  "nominal": "B4",
+  "why": "own estimate 476.129 Hz is -63.4 c from the catalogue note"
+ },
+ {
+  "source": "Violin.pizz.mf.sulE.E5Ab5.aiff",
+  "index": 1,
+  "onset": 8.2338,
+  "nominal": "F5",
+  "why": "evaluation span too short (22 frames)"
+ },
+ {
+  "source": "Violin.pizz.mf.sulE.E5Ab5.aiff",
+  "index": 2,
+  "onset": 14.086,
+  "nominal": "F#5",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Violin.pizz.mf.sulE.E5Ab5.aiff",
+  "index": 3,
+  "onset": 19.422,
+  "nominal": "G5",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Violin.pizz.mf.sulE.E5Ab5.aiff",
+  "index": 4,
+  "onset": 25.0203,
+  "nominal": "G#5",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 0,
+  "onset": 1.8436,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 1,
+  "onset": 5.7568,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 2,
+  "onset": 9.5317,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 3,
+  "onset": 13.5045,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 4,
+  "onset": 17.9239,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 5,
+  "onset": 25.2589,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 6,
+  "onset": 29.0808,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Violin.pizz.ff.sulE.Bb5G6.aiff",
+  "index": 7,
+  "onset": 36.5485,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 0,
+  "onset": 0.27,
+  "nominal": "B3",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 1,
+  "onset": 2.5426,
+  "nominal": "C4",
+  "why": "catalogue check failed: -11.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 2,
+  "onset": 5.239,
+  "nominal": "C#4",
+  "why": "catalogue check failed: -13.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 3,
+  "onset": 8.0254,
+  "nominal": "D4",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 4,
+  "onset": 10.6899,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -5.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 5,
+  "onset": 13.642,
+  "nominal": "E4",
+  "why": "catalogue check failed: -5.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 7,
+  "onset": 19.1129,
+  "nominal": "F#4",
+  "why": "catalogue check failed: 5.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 9,
+  "onset": 25.1617,
+  "nominal": "G#4",
+  "why": "catalogue check failed: -5.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 10,
+  "onset": 28.3154,
+  "nominal": "A4",
+  "why": "catalogue check failed: 8.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 11,
+  "onset": 31.1902,
+  "nominal": "A#4",
+  "why": "catalogue check failed: 10.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.B3B4.aiff",
+  "index": 12,
+  "onset": 34.2304,
+  "nominal": "B4",
+  "why": "catalogue check failed: 9.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 0,
+  "onset": 0.3151,
+  "nominal": "C5",
+  "why": "catalogue check failed: 8.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 1,
+  "onset": 2.8967,
+  "nominal": "C#5",
+  "why": "catalogue check failed: 8.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 4,
+  "onset": 11.0875,
+  "nominal": "E5",
+  "why": "catalogue check failed: 6.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 5,
+  "onset": 13.7578,
+  "nominal": "F5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 6,
+  "onset": 16.3701,
+  "nominal": "F#5",
+  "why": "catalogue check failed: 14.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 7,
+  "onset": 19.1107,
+  "nominal": "G5",
+  "why": "catalogue check failed: 6.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 8,
+  "onset": 21.6832,
+  "nominal": "G#5",
+  "why": "catalogue check failed: 5.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 9,
+  "onset": 24.2707,
+  "nominal": "A5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 10,
+  "onset": 27.3988,
+  "nominal": "A#5",
+  "why": "catalogue check failed: 19.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C5B5.aiff",
+  "index": 11,
+  "onset": 30.0845,
+  "nominal": "B5",
+  "why": "catalogue check failed: 16.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 0,
+  "onset": 0.3584,
+  "nominal": "C6",
+  "why": "catalogue check failed: 19.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 1,
+  "onset": 2.8841,
+  "nominal": "C#6",
+  "why": "catalogue check failed: 21.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 2,
+  "onset": 5.2883,
+  "nominal": "D6",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 3,
+  "onset": 8.1937,
+  "nominal": "D#6",
+  "why": "catalogue check failed: 19.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 4,
+  "onset": 10.9917,
+  "nominal": "E6",
+  "why": "catalogue check failed: 22.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 5,
+  "onset": 13.8246,
+  "nominal": "F6",
+  "why": "catalogue check failed: 18.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 6,
+  "onset": 16.701,
+  "nominal": "F#6",
+  "why": "catalogue check failed: 18.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 7,
+  "onset": 19.6063,
+  "nominal": "G6",
+  "why": "catalogue check failed: 18.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 8,
+  "onset": 22.355,
+  "nominal": "G#6",
+  "why": "catalogue check failed: 16.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 9,
+  "onset": 25.0515,
+  "nominal": "A6",
+  "why": "catalogue check failed: 10.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 10,
+  "onset": 27.9395,
+  "nominal": "A#6",
+  "why": "catalogue check failed: 7.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.nonvib.mf.C6B6.aiff",
+  "index": 11,
+  "onset": 31.1885,
+  "nominal": "B6",
+  "why": "catalogue check failed: 18.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.vib.mf.C5B5.aiff",
+  "index": 0,
+  "onset": 0.4721,
+  "nominal": "C5",
+  "why": "catalogue check failed: 13.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.vib.mf.C5B5.aiff",
+  "index": 1,
+  "onset": 3.5705,
+  "nominal": "C#5",
+  "why": "catalogue check failed: 12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.vib.mf.C5B5.aiff",
+  "index": 2,
+  "onset": 6.7815,
+  "nominal": "D5",
+  "why": "catalogue check failed: 5.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.vib.mf.C5B5.aiff",
+  "index": 6,
+  "onset": 19.0337,
+  "nominal": "F#5",
+  "why": "catalogue check failed: 8.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.vib.mf.C5B5.aiff",
+  "index": 10,
+  "onset": 30.9522,
+  "nominal": "A#5",
+  "why": "catalogue check failed: 12.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Flute.vib.mf.C5B5.aiff",
+  "index": 11,
+  "onset": 34.713,
+  "nominal": "B5",
+  "why": "own estimate 497.679 Hz is -1186.7 c from the catalogue note"
+ },
+ {
+  "source": "BbClar.mf.D3B3.aiff",
+  "index": 0,
+  "onset": 2.05,
+  "nominal": "D3",
+  "why": "catalogue check failed: -8.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.D3B3.aiff",
+  "index": 1,
+  "onset": 7.15,
+  "nominal": "D#3",
+  "why": "catalogue check failed: -18.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.D3B3.aiff",
+  "index": 2,
+  "onset": 12.1303,
+  "nominal": "E3",
+  "why": "catalogue check failed: -17.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.D3B3.aiff",
+  "index": 8,
+  "onset": 41.9238,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -11.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.D3B3.aiff",
+  "index": 9,
+  "onset": 46.7,
+  "nominal": "B3",
+  "why": "catalogue check failed: -6.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 1,
+  "onset": 7.13,
+  "nominal": "C#4",
+  "why": "catalogue check failed: -14.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 2,
+  "onset": 11.2932,
+  "nominal": "D4",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 3,
+  "onset": 12.0807,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 4,
+  "onset": 17.0401,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -8.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 6,
+  "onset": 27.04,
+  "nominal": "F4",
+  "why": "catalogue check failed: -9.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 7,
+  "onset": 32.02,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -10.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 9,
+  "onset": 41.87,
+  "nominal": "G#4",
+  "why": "catalogue check failed: -10.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 12,
+  "onset": 55.9158,
+  "nominal": "B4",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "BbClar.mf.C4B4.aiff",
+  "index": 13,
+  "onset": 56.8007,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 0,
+  "onset": 0.9694,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 2,
+  "onset": 6.1439,
+  "nominal": "C#5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 3,
+  "onset": 7.0527,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 4,
+  "onset": 11.1,
+  "nominal": "D5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 5,
+  "onset": 12.1244,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 7,
+  "onset": 20.913,
+  "nominal": "E5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 8,
+  "onset": 21.9515,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 9,
+  "onset": 26.85,
+  "nominal": "F5",
+  "why": "catalogue check failed: -9.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 10,
+  "onset": 30.7847,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 11,
+  "onset": 31.76,
+  "nominal": "F#5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 12,
+  "onset": 36.82,
+  "nominal": "G5",
+  "why": "catalogue check failed: -13.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 13,
+  "onset": 41.8002,
+  "nominal": "G#5",
+  "why": "catalogue check failed: -6.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.mf.C5B5.aiff",
+  "index": 14,
+  "onset": 45.853,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 3,
+  "onset": 17.0912,
+  "nominal": "D#6",
+  "why": "catalogue check failed: -14.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 4,
+  "onset": 22.01,
+  "nominal": "E6",
+  "why": "catalogue check failed: -17.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 5,
+  "onset": 27.34,
+  "nominal": "F6",
+  "why": "catalogue check failed: -20.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 6,
+  "onset": 32.38,
+  "nominal": "F#6",
+  "why": "catalogue check failed: -13.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 7,
+  "onset": 37.3,
+  "nominal": "G6",
+  "why": "catalogue check failed: -17.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 8,
+  "onset": 42.3404,
+  "nominal": "G#6",
+  "why": "catalogue check failed: -48.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 9,
+  "onset": 47.3,
+  "nominal": "A6",
+  "why": "catalogue check failed: -8.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 10,
+  "onset": 52.3973,
+  "nominal": "A#6",
+  "why": "catalogue check failed: -5.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.C6B6.aiff",
+  "index": 11,
+  "onset": 56.8181,
+  "nominal": "B6",
+  "why": "catalogue check failed: -26.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.Bb3B3.aiff",
+  "index": 0,
+  "onset": 0.198,
+  "nominal": "A#3",
+  "why": "catalogue check failed: 12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.Bb3B3.aiff",
+  "index": 1,
+  "onset": 3.82,
+  "nominal": "B3",
+  "why": "catalogue check failed: -9.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 0,
+  "onset": 0.1417,
+  "nominal": "C4",
+  "why": "only 1.34 s after the onset",
+  "catalogue_offset_cents": -11.443
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 1,
+  "onset": 1.5322,
+  "nominal": "C#4",
+  "why": "catalogue check failed: -11.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 2,
+  "onset": 5.1,
+  "nominal": "D4",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 4,
+  "onset": 13.16,
+  "nominal": "E4",
+  "why": "only 1.57 s after the onset",
+  "catalogue_offset_cents": 0.792
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 6,
+  "onset": 18.8282,
+  "nominal": "F#4",
+  "why": "catalogue check failed: 6.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 7,
+  "onset": 22.713,
+  "nominal": "G4",
+  "why": "catalogue check failed: 5.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 9,
+  "onset": 30.8118,
+  "nominal": "A4",
+  "why": "catalogue check failed: 5.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C4B4.aiff",
+  "index": 11,
+  "onset": 38.7583,
+  "nominal": "B4",
+  "why": "only 1.79 s after the onset",
+  "catalogue_offset_cents": -6.258
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 2,
+  "onset": 8,
+  "nominal": "D5",
+  "why": "catalogue check failed: -5.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 3,
+  "onset": 11.93,
+  "nominal": "D#5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 4,
+  "onset": 15.93,
+  "nominal": "E5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 5,
+  "onset": 20.2683,
+  "nominal": "F5",
+  "why": "catalogue check failed: -12.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 6,
+  "onset": 24.3153,
+  "nominal": "F#5",
+  "why": "catalogue check failed: 8.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 8,
+  "onset": 32.3227,
+  "nominal": "G#5",
+  "why": "catalogue check failed: 7.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 9,
+  "onset": 36.2846,
+  "nominal": "A5",
+  "why": "catalogue check failed: 5.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 10,
+  "onset": 39.91,
+  "nominal": "A#5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Oboe.mf.C5B5.aiff",
+  "index": 11,
+  "onset": 44.2669,
+  "nominal": "B5",
+  "why": "only 1.35 s after the onset",
+  "catalogue_offset_cents": -10.037
+ },
+ {
+  "source": "Oboe.mf.C6Ab6.aiff",
+  "index": 0,
+  "onset": 0.276,
+  "nominal": "C6",
+  "why": "catalogue check failed: 6.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C6Ab6.aiff",
+  "index": 3,
+  "onset": 12.338,
+  "nominal": "D#6",
+  "why": "catalogue check failed: 7.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C6Ab6.aiff",
+  "index": 4,
+  "onset": 16.3392,
+  "nominal": "E6",
+  "why": "catalogue check failed: 7.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C6Ab6.aiff",
+  "index": 6,
+  "onset": 24.2642,
+  "nominal": "F#6",
+  "why": "catalogue check failed: 6.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C6Ab6.aiff",
+  "index": 7,
+  "onset": 28.1901,
+  "nominal": "G6",
+  "why": "catalogue check failed: -10.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.mf.C6Ab6.aiff",
+  "index": 8,
+  "onset": 32.3869,
+  "nominal": "G#6",
+  "why": "only 1.76 s after the onset",
+  "catalogue_offset_cents": -5.713
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 0,
+  "onset": 4.1111,
+  "nominal": "E3",
+  "why": "catalogue check failed: 11.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 2,
+  "onset": 20.8694,
+  "nominal": "F#3",
+  "why": "catalogue check failed: -24.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 3,
+  "onset": 28.9006,
+  "nominal": "G3",
+  "why": "catalogue check failed: -5.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 4,
+  "onset": 36.96,
+  "nominal": "G#3",
+  "why": "catalogue check failed: -20.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 5,
+  "onset": 44.9105,
+  "nominal": "A3",
+  "why": "catalogue check failed: -15.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 6,
+  "onset": 53.353,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -21.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.E3B3.aiff",
+  "index": 7,
+  "onset": 61.3465,
+  "nominal": "B3",
+  "why": "catalogue check failed: -7.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 0,
+  "onset": 2.9315,
+  "nominal": "C4",
+  "why": "catalogue check failed: -6.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 1,
+  "onset": 10.8731,
+  "nominal": "C#4",
+  "why": "catalogue check failed: -14.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 3,
+  "onset": 27.6021,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -16.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 4,
+  "onset": 36.0013,
+  "nominal": "E4",
+  "why": "catalogue check failed: -9.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 5,
+  "onset": 44.2693,
+  "nominal": "F4",
+  "why": "catalogue check failed: -16.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 6,
+  "onset": 52.6491,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -10.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 7,
+  "onset": 61.2387,
+  "nominal": "G4",
+  "why": "catalogue check failed: -10.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 8,
+  "onset": 70.037,
+  "nominal": "G#4",
+  "why": "catalogue check failed: -11.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 9,
+  "onset": 78.4545,
+  "nominal": "A4",
+  "why": "catalogue check failed: -11.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C4B4.aiff",
+  "index": 10,
+  "onset": 87.2957,
+  "nominal": "A#4",
+  "why": "catalogue check failed: -8.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 1,
+  "onset": 10.5827,
+  "nominal": "C#5",
+  "why": "catalogue check failed: -5.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 2,
+  "onset": 18.9842,
+  "nominal": "D5",
+  "why": "catalogue check failed: 8.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 3,
+  "onset": 27.6731,
+  "nominal": "D#5",
+  "why": "catalogue check failed: 19.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 4,
+  "onset": 35.8882,
+  "nominal": "E5",
+  "why": "catalogue check failed: 16.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 5,
+  "onset": 44.5176,
+  "nominal": "F5",
+  "why": "catalogue check failed: 10.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 6,
+  "onset": 52.5815,
+  "nominal": "F#5",
+  "why": "catalogue check failed: 8.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 7,
+  "onset": 60.4943,
+  "nominal": "G5",
+  "why": "catalogue check failed: 12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.novib.mf.C5B5.aiff",
+  "index": 9,
+  "onset": 76.5275,
+  "nominal": "A5",
+  "why": "catalogue check failed: -10.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 0,
+  "onset": 2.1754,
+  "nominal": "C4",
+  "why": "catalogue check failed: -6.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 3,
+  "onset": 29.2563,
+  "nominal": "D#4",
+  "why": "catalogue check failed: -15.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 4,
+  "onset": 37.6827,
+  "nominal": "E4",
+  "why": "catalogue check failed: -10.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 5,
+  "onset": 46.8063,
+  "nominal": "F4",
+  "why": "catalogue check failed: -14.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 6,
+  "onset": 56.5558,
+  "nominal": "F#4",
+  "why": "catalogue check failed: -8.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 7,
+  "onset": 66.0615,
+  "nominal": "G4",
+  "why": "catalogue check failed: -8.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 8,
+  "onset": 75.7309,
+  "nominal": "G#4",
+  "why": "catalogue check failed: -5.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Trumpet.vib.mf.C4B4.aiff",
+  "index": 9,
+  "onset": 83.8895,
+  "nominal": "A4",
+  "why": "catalogue check failed: -9.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 0,
+  "onset": 0.3555,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 1,
+  "onset": 2.4163,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 2,
+  "onset": 3.4104,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 3,
+  "onset": 4.7038,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 4,
+  "onset": 6.7095,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 5,
+  "onset": 7.7101,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 6,
+  "onset": 9.2968,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 7,
+  "onset": 10.3218,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 8,
+  "onset": 11.9211,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 9,
+  "onset": 12.9161,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 10,
+  "onset": 14.2701,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 11,
+  "onset": 15.2899,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 12,
+  "onset": 16.9415,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 13,
+  "onset": 17.8507,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 14,
+  "onset": 19.3037,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 15,
+  "onset": 20.2908,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 16,
+  "onset": 21.5328,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 17,
+  "onset": 22.5596,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 18,
+  "onset": 23.9819,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 19,
+  "onset": 25.011,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C1B1.aiff",
+  "index": 20,
+  "onset": 26.2903,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 0,
+  "onset": 0.3307,
+  "nominal": "C2",
+  "why": "catalogue check failed: 20.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 1,
+  "onset": 2.4,
+  "nominal": "C#2",
+  "why": "catalogue check failed: 23.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 2,
+  "onset": 4.7642,
+  "nominal": "D2",
+  "why": "catalogue check failed: 5.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 3,
+  "onset": 6.9667,
+  "nominal": "D#2",
+  "why": "catalogue check failed: 19.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 4,
+  "onset": 9.3955,
+  "nominal": "E2",
+  "why": "catalogue check failed: 12.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 5,
+  "onset": 11.5276,
+  "nominal": "F2",
+  "why": "catalogue check failed: 18.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 6,
+  "onset": 13.7197,
+  "nominal": "F#2",
+  "why": "catalogue check failed: 17.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 7,
+  "onset": 15.8027,
+  "nominal": "G2",
+  "why": "catalogue check failed: 10.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 8,
+  "onset": 17.9221,
+  "nominal": "G#2",
+  "why": "catalogue check failed: 7.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 9,
+  "onset": 20.0662,
+  "nominal": "A2",
+  "why": "catalogue check failed: 27.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 10,
+  "onset": 22.4854,
+  "nominal": "A#2",
+  "why": "catalogue check failed: 22.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Tuba.mf.C2B2.aiff",
+  "index": 11,
+  "onset": 25.0569,
+  "nominal": "B2",
+  "why": "only 1.75 s after the onset",
+  "catalogue_offset_cents": 22.013
+ },
+ {
+  "source": "Piano.mf.E1.aiff",
+  "index": 0,
+  "onset": 0.4376,
+  "nominal": "E1",
+  "why": "catalogue check failed: -14.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.E4.aiff",
+  "index": 0,
+  "onset": 0.0224,
+  "nominal": "E4",
+  "why": "catalogue check failed: 5.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.A4.aiff",
+  "index": 0,
+  "onset": 0.02,
+  "nominal": "A4",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Piano.mf.E5.aiff",
+  "index": 0,
+  "onset": 0.4383,
+  "nominal": "E5",
+  "why": "catalogue check failed: 5.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.A5.aiff",
+  "index": 0,
+  "onset": 0.0198,
+  "nominal": "A5",
+  "why": "catalogue check failed: 9.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.C6.aiff",
+  "index": 0,
+  "onset": 0.0159,
+  "nominal": "C6",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Piano.mf.E6.aiff",
+  "index": 0,
+  "onset": 0.0113,
+  "nominal": "E6",
+  "why": "reading too short after attack (0.45 s)",
+  "catalogue_offset_cents": 10.624
+ },
+ {
+  "source": "Piano.ff.E1.aiff",
+  "index": 0,
+  "onset": 0.1,
+  "nominal": "E1",
+  "why": "own estimate 81.811 Hz is 1187.4 c from the catalogue note"
+ },
+ {
+  "source": "Piano.ff.E6.aiff",
+  "index": 0,
+  "onset": 0.4992,
+  "nominal": "E6",
+  "why": "catalogue check failed: 10.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 0,
+  "onset": 1.0368,
+  "nominal": "D2",
+  "why": "catalogue check failed: -10.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 1,
+  "onset": 9.9662,
+  "nominal": "D#2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 2,
+  "onset": 15.358,
+  "nominal": "E2",
+  "why": "catalogue check failed: -9.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 3,
+  "onset": 20.25,
+  "nominal": "F2",
+  "why": "catalogue check failed: -12.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 4,
+  "onset": 26.2375,
+  "nominal": "F#2",
+  "why": "catalogue check failed: -8.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 6,
+  "onset": 34.864,
+  "nominal": "G#2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 7,
+  "onset": 40.2299,
+  "nominal": "A2",
+  "why": "catalogue check failed: -11.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 8,
+  "onset": 45.6434,
+  "nominal": "A#2",
+  "why": "catalogue check failed: -6.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulD.D2B2.aiff",
+  "index": 9,
+  "onset": 51.0298,
+  "nominal": "B2",
+  "why": "catalogue check failed: 7.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulE.E1B1.aiff",
+  "index": 2,
+  "onset": 10.1,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.arco.ff.sulE.E1B1.aiff",
+  "index": 5,
+  "onset": 19.83,
+  "nominal": "G#1",
+  "why": "catalogue check failed: -20.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulE.E1B1.aiff",
+  "index": 6,
+  "onset": 24.0436,
+  "nominal": "A1",
+  "why": "catalogue check failed: -21.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulE.E1B1.aiff",
+  "index": 7,
+  "onset": 28.2612,
+  "nominal": "A#1",
+  "why": "catalogue check failed: -7.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulG.G2B2.aiff",
+  "index": 1,
+  "onset": 7.3112,
+  "nominal": "G#2",
+  "why": "catalogue check failed: 11.2 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.ff.sulG.G2B2.aiff",
+  "index": 3,
+  "onset": 20.0612,
+  "nominal": "A#2",
+  "why": "catalogue check failed: -12.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 1,
+  "onset": 6.9184,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 3,
+  "onset": 13.06,
+  "nominal": "E2",
+  "why": "catalogue check failed: -5.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 4,
+  "onset": 18.1107,
+  "nominal": "F2",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 5,
+  "onset": 18.98,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 9,
+  "onset": 39.8664,
+  "nominal": "A2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 10,
+  "onset": 40.59,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 11,
+  "onset": 45.76,
+  "nominal": "A#2",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Bass.arco.pp.sulD.D2B2.aiff",
+  "index": 12,
+  "onset": 51.45,
+  "nominal": "B2",
+  "why": "catalogue check failed: 5.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 1,
+  "onset": 5.3675,
+  "nominal": "C#3",
+  "why": "catalogue check failed: -17.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 2,
+  "onset": 10.7702,
+  "nominal": "D3",
+  "why": "catalogue check failed: -19.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 3,
+  "onset": 15.6643,
+  "nominal": "D#3",
+  "why": "catalogue check failed: -10.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 4,
+  "onset": 20.4686,
+  "nominal": "E3",
+  "why": "catalogue check failed: -8.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 6,
+  "onset": 29.8271,
+  "nominal": "F#3",
+  "why": "catalogue check failed: -25.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 8,
+  "onset": 39.9719,
+  "nominal": "G#3",
+  "why": "catalogue check failed: -37.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 9,
+  "onset": 44.9678,
+  "nominal": "A3",
+  "why": "catalogue check failed: -22.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulC.ff.C3B3.aiff",
+  "index": 10,
+  "onset": 50.4268,
+  "nominal": "A#3",
+  "why": "catalogue check failed: -21.9 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulG.ff.G3B3.aiff",
+  "index": 1,
+  "onset": 5.8359,
+  "nominal": "G#3",
+  "why": "catalogue check failed: -18.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulG.ff.G3B3.aiff",
+  "index": 2,
+  "onset": 11.3382,
+  "nominal": "A3",
+  "why": "catalogue check failed: -12.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Viola.arco.sulG.ff.G3B3.aiff",
+  "index": 4,
+  "onset": 22.6713,
+  "nominal": "B3",
+  "why": "catalogue check failed: -10.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 0,
+  "onset": 0.058,
+  "nominal": "C4",
+  "why": "only 1.77 s after the onset",
+  "catalogue_offset_cents": -6.725
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 1,
+  "onset": 1.8797,
+  "nominal": "C#4",
+  "why": "only 1.69 s after the onset",
+  "catalogue_offset_cents": 4.163
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 2,
+  "onset": 3.617,
+  "nominal": "D4",
+  "why": "evaluation span too short (15 frames)"
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 3,
+  "onset": 5.3732,
+  "nominal": "D#4",
+  "why": "only 1.73 s after the onset",
+  "catalogue_offset_cents": -5.345
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 4,
+  "onset": 7.1488,
+  "nominal": "E4",
+  "why": "only 1.62 s after the onset",
+  "catalogue_offset_cents": 2.067
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 5,
+  "onset": 8.815,
+  "nominal": "F4",
+  "why": "only 1.52 s after the onset",
+  "catalogue_offset_cents": 0.911
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 6,
+  "onset": 10.3851,
+  "nominal": "F#4",
+  "why": "evaluation span too short (19 frames)"
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 7,
+  "onset": 12.0189,
+  "nominal": "G4",
+  "why": "only 1.63 s after the onset",
+  "catalogue_offset_cents": -1.839
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 8,
+  "onset": 13.6998,
+  "nominal": "G#4",
+  "why": "evaluation span too short (25 frames)"
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 9,
+  "onset": 15.3765,
+  "nominal": "A4",
+  "why": "only 1.56 s after the onset",
+  "catalogue_offset_cents": -0.464
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 10,
+  "onset": 16.9891,
+  "nominal": "A#4",
+  "why": "only 1.73 s after the onset",
+  "catalogue_offset_cents": -2.619
+ },
+ {
+  "source": "Oboe.ff.C4B4.aiff",
+  "index": 11,
+  "onset": 18.7651,
+  "nominal": "B4",
+  "why": "catalogue check failed: 12.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 0,
+  "onset": 0.2696,
+  "nominal": "C5",
+  "why": "catalogue check failed: 12.1 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 1,
+  "onset": 3.97,
+  "nominal": "C#5",
+  "why": "catalogue check failed: 10.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 2,
+  "onset": 8.2669,
+  "nominal": "D5",
+  "why": "catalogue check failed: 7.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 4,
+  "onset": 15.97,
+  "nominal": "E5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 5,
+  "onset": 20.3117,
+  "nominal": "F5",
+  "why": "catalogue check failed: -6.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 6,
+  "onset": 24.3684,
+  "nominal": "F#5",
+  "why": "catalogue check failed: 15.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 7,
+  "onset": 28.2039,
+  "nominal": "G5",
+  "why": "catalogue check failed: 7.7 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 9,
+  "onset": 35.83,
+  "nominal": "A5",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "Oboe.ff.C5B5.aiff",
+  "index": 11,
+  "onset": 44.2789,
+  "nominal": "B5",
+  "why": "only 1.93 s after the onset",
+  "catalogue_offset_cents": -8.005
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 0,
+  "onset": 0.099,
+  "nominal": "C4",
+  "why": "catalogue check failed: -15.5 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 1,
+  "onset": 3.364,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 2,
+  "onset": 7.1169,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 3,
+  "onset": 11.1282,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 4,
+  "onset": 15.1394,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 5,
+  "onset": 19.1536,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 6,
+  "onset": 23.1644,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 7,
+  "onset": 27.7002,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 8,
+  "onset": 31.6917,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 9,
+  "onset": 35.4278,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "Oboe.pp.C4B4.aiff",
+  "index": 10,
+  "onset": 39.4391,
+  "why": "catalogue note not assignable (unassigned)"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 0,
+  "onset": 2.7002,
+  "nominal": "D3",
+  "why": "catalogue check failed: -6.6 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 1,
+  "onset": 7.66,
+  "nominal": "D#3",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 2,
+  "onset": 12.72,
+  "nominal": "E3",
+  "why": "catalogue check failed: -12.0 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 3,
+  "onset": 17.5,
+  "nominal": "F3",
+  "why": "evaluation span too short (0 frames)"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 4,
+  "onset": 21.7029,
+  "nominal": "F#3",
+  "why": "no valid truth frames"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 5,
+  "onset": 22.68,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 10,
+  "onset": 46.6375,
+  "nominal": "B3",
+  "why": "evaluation span too short (23 frames)"
+ },
+ {
+  "source": "BbClar.ff.D3B3.aiff",
+  "index": 11,
+  "onset": 47.5838,
+  "why": "catalogue note not assignable (repeat)"
+ },
+ {
+  "source": "Piano.mf.Eb3.aiff",
+  "index": 0,
+  "onset": 0.1463,
+  "nominal": "D#3",
+  "why": "evaluation span too short (29 frames)"
+ },
+ {
+  "source": "Piano.mf.E3.aiff",
+  "index": 0,
+  "onset": 0.1697,
+  "nominal": "E3",
+  "why": "catalogue check failed: 5.4 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.Ab3.aiff",
+  "index": 0,
+  "onset": 0.5422,
+  "nominal": "G#3",
+  "why": "catalogue check failed: 5.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.Db4.aiff",
+  "index": 0,
+  "onset": 0.5285,
+  "nominal": "C#4",
+  "why": "catalogue check failed: 6.3 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.Ab4.aiff",
+  "index": 0,
+  "onset": 0.0096,
+  "nominal": "G#4",
+  "why": "catalogue check failed: 5.8 c (> 5 c) -> supplement only"
+ },
+ {
+  "source": "Piano.mf.Eb5.aiff",
+  "index": 0,
+  "onset": 0.4871,
+  "nominal": "D#5",
+  "why": "reading too short after attack (0.29 s)",
+  "catalogue_offset_cents": 1.396
+ }
+]

@@ -1,0 +1,149 @@
+
+Per group (instrument + articulation) (truth = local; base files only)
+| row | files | evalF | cover% | med c | p95 c | max c | note% | stat% | harm | wDir T/L | false% | settled | setl50 | setl95 | 1st50 | 1st95 | jumps>1c |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| cello-arco | 19 | 965 | 100.0 | 0.76 | 7.66 | 13.2 | 98.8 | 96.1 | 0 | 0/28 | 0.0 | 19/19 | 333 | 833 | 167 | 300 | 3 |
+| cello-pizz | 26 | 855 | 99.8 | 2.76 | 12.48 | 32.9 | 94.4 | 93.4 | 0 | 3/4 | 0.0 | 18/26 | 500 | 1200 | 150 | 667 | 11 |
+| clarinet | 24 | 1271 | 100.0 | 0.42 | 2.62 | 25.4 | 99.1 | 100.0 | 0 | 4/3 | 0.0 | 24/24 | 367 | 533 | 167 | 333 | 0 |
+| dbass-arco | 32 | 1970 | 100.0 | 0.73 | 1190.22 | 1200.4 | 94.6 | 99.9 | 1 | 39/174 | 0.0 | 29/32 | 400 | 767 | 167 | 400 | 0 |
+| dbass-pizz | 13 | 531 | 98.9 | 1.49 | 1199.39 | 1201.2 | 92.2 | 91.3 | 39 | 10/82 | 6.7 | 9/13 | 533 | 1733 | 167 | 467 | 0 |
+| flute-novib | 28 | 1566 | 100.0 | 0.63 | 2.69 | 6.0 | 100.0 | 99.8 | 0 | 8/2 | 0.0 | 28/28 | 500 | 767 | 333 | 433 | 0 |
+| flute-vib | 5 | 284 | 92.3 | 0.00 | 0.00 | 1158.3 | 98.5 | - | 0 | 0/0 | 0.0 | 5/5 | 233 | 667 | 167 | 500 | 0 |
+| guitar | 17 | 839 | 85.2 | 1.12 | 7.52 | 1200.2 | 99.0 | 99.3 | 7 | 0/68 | 0.0 | 16/17 | 317 | 1533 | 133 | 300 | 1 |
+| oboe | 24 | 854 | 99.8 | 0.89 | 1200.67 | 1203.0 | 83.7 | 99.8 | 139 | 2/69 | 0.0 | 20/24 | 233 | 600 | 67 | 333 | 0 |
+| piano | 9 | 354 | 100.0 | 0.62 | 3.96 | 10.1 | 100.0 | 100.0 | 0 | 9/0 | 23.9 | 9/9 | 333 | 733 | 100 | 367 | 5 |
+| trumpet-novib | 25 | 2497 | 100.0 | 0.53 | 2.29 | 8.6 | 100.0 | 99.9 | 0 | 5/3 | 0.0 | 25/25 | 233 | 367 | 133 | 167 | 0 |
+| trumpet-vib | 8 | 978 | 100.0 | 0.00 | 0.00 | 0.0 | 100.0 | - | 0 | 0/0 | 0.0 | 8/8 | 233 | 367 | 133 | 167 | 0 |
+| tuba | 11 | 356 | 100.0 | 0.95 | 3.20 | 6.3 | 100.0 | 99.4 | 0 | 1/0 | 0.0 | 11/11 | 267 | 400 | 167 | 200 | 0 |
+| viola-arco | 36 | 1795 | 100.0 | 0.49 | 2.46 | 11.4 | 100.0 | 100.0 | 0 | 7/0 | 0.0 | 36/36 | 283 | 533 | 133 | 300 | 0 |
+| violin-arco | 22 | 2463 | 100.0 | 0.27 | 1.37 | 11.3 | 99.9 | 99.9 | 0 | 1/0 | 0.0 | 22/22 | 367 | 433 | 167 | 333 | 0 |
+| violin-pizz | 7 | 147 | 90.5 | 0.62 | 1200.08 | 1201.1 | 84.2 | 100.0 | 0 | 0/9 | 0.0 | 4/7 | 233 | 233 | 67 | 167 | 0 |
+
+Per octave of the played note (truth = local; base files only)
+| row | files | evalF | cover% | med c | p95 c | max c | note% | stat% | harm | wDir T/L | false% | settled | setl50 | setl95 | 1st50 | 1st95 | jumps>1c |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 15 | 678 | 100.0 | 2.10 | 1199.66 | 1201.2 | 79.1 | 87.2 | 34 | 29/224 | 0.0 | 10/15 | 400 | 900 | 167 | 300 | 4 |
+| 2 | 60 | 3076 | 98.9 | 1.12 | 10.40 | 1200.2 | 98.4 | 97.3 | 8 | 16/91 | 0.0 | 51/60 | 433 | 1367 | 167 | 400 | 8 |
+| 3 | 72 | 4126 | 98.7 | 0.61 | 3.93 | 1201.1 | 99.2 | 99.7 | 5 | 15/16 | 4.7 | 69/72 | 333 | 533 | 150 | 367 | 5 |
+| 4 | 82 | 5244 | 98.9 | 0.32 | 2.49 | 20.3 | 99.7 | 99.5 | 0 | 14/41 | 0.0 | 80/82 | 267 | 667 | 133 | 400 | 3 |
+| 5 | 49 | 3002 | 99.2 | 0.41 | 4.21 | 1203.0 | 95.2 | 99.9 | 139 | 10/69 | 0.0 | 45/49 | 267 | 533 | 133 | 367 | 0 |
+| 6 | 28 | 1599 | 100.0 | 0.38 | 2.61 | 25.4 | 99.3 | 100.0 | 0 | 5/1 | 0.0 | 28/28 | 383 | 700 | 167 | 433 | 0 |
+
+Per group and octave (truth = local; base files only)
+| row | files | evalF | cover% | med c | p95 c | max c | note% | stat% | harm | wDir T/L | false% | settled | setl50 | setl95 | 1st50 | 1st95 | jumps>1c |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| cello-arco oct 2 | 9 | 646 | 100.0 | 0.72 | 7.92 | 13.2 | 99.8 | 96.0 | 0 | 0/0 | 0.0 | 9/9 | 400 | 833 | - | - | 0 |
+| cello-arco oct 3 | 4 | 137 | 100.0 | 0.92 | 9.46 | 11.4 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 4/4 | 300 | 500 | - | - | 3 |
+| cello-arco oct 4 | 6 | 182 | 100.0 | 0.74 | 4.18 | 6.3 | 94.0 | 93.1 | 0 | 0/28 | 0.0 | 6/6 | 267 | 400 | - | - | 0 |
+| cello-pizz oct 2 | 12 | 406 | 99.8 | 5.12 | 12.66 | 32.9 | 90.4 | 89.6 | 0 | 0/0 | 0.0 | 5/12 | 433 | 1033 | - | - | 7 |
+| cello-pizz oct 3 | 7 | 216 | 100.0 | 1.21 | 7.79 | 26.8 | 97.7 | 97.7 | 0 | 0/2 | 0.0 | 7/7 | 400 | 600 | - | - | 1 |
+| cello-pizz oct 4 | 7 | 233 | 99.6 | 1.05 | 11.66 | 20.3 | 98.3 | 96.7 | 0 | 3/2 | 0.0 | 6/7 | 600 | 1200 | - | - | 3 |
+| clarinet oct 3 | 7 | 365 | 100.0 | 0.49 | 2.51 | 7.7 | 100.0 | 100.0 | 0 | 4/2 | 0.0 | 7/7 | 400 | 533 | - | - | 0 |
+| clarinet oct 4 | 5 | 260 | 100.0 | 0.46 | 1.95 | 3.2 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 5/5 | 333 | 333 | - | - | 0 |
+| clarinet oct 5 | 3 | 158 | 100.0 | 0.41 | 1.73 | 2.8 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 3/3 | 367 | 400 | - | - | 0 |
+| clarinet oct 6 | 9 | 488 | 100.0 | 0.35 | 3.93 | 25.4 | 97.7 | 100.0 | 0 | 0/1 | 0.0 | 9/9 | 367 | 933 | - | - | 0 |
+| dbass-arco oct 1 | 8 | 418 | 100.0 | 0.08 | 1199.43 | 1200.4 | 74.6 | 100.0 | 0 | 24/152 | 0.0 | 6/8 | 367 | 400 | - | - | 0 |
+| dbass-arco oct 2 | 17 | 1137 | 100.0 | 0.86 | 7.40 | 1169.6 | 99.9 | 99.8 | 1 | 10/22 | 0.0 | 16/17 | 450 | 800 | - | - | 0 |
+| dbass-arco oct 3 | 7 | 415 | 100.0 | 0.66 | 3.80 | 14.3 | 100.0 | 100.0 | 0 | 5/0 | 0.0 | 7/7 | 367 | 767 | - | - | 0 |
+| dbass-pizz oct 1 | 6 | 198 | 100.0 | 7.55 | 1200.39 | 1201.2 | 81.8 | 79.7 | 34 | 5/72 | 0.0 | 3/6 | 833 | 900 | - | - | 0 |
+| dbass-pizz oct 2 | 4 | 168 | 97.0 | 0.87 | 16.36 | 1194.6 | 96.9 | 95.7 | 5 | 5/10 | 0.0 | 3/4 | 700 | 1733 | - | - | 0 |
+| dbass-pizz oct 3 | 3 | 165 | 99.4 | 0.31 | 1.35 | 2.4 | 100.0 | 100.0 | 0 | 0/0 | 22.6 | 3/3 | 233 | 267 | - | - | 0 |
+| flute-novib oct 4 | 9 | 487 | 100.0 | 0.73 | 3.09 | 6.0 | 100.0 | 99.8 | 0 | 0/2 | 0.0 | 9/9 | 600 | 800 | - | - | 0 |
+| flute-novib oct 5 | 8 | 440 | 100.0 | 0.62 | 2.64 | 5.0 | 100.0 | 99.5 | 0 | 3/0 | 0.0 | 8/8 | 400 | 533 | - | - | 0 |
+| flute-novib oct 6 | 11 | 639 | 100.0 | 0.56 | 1.98 | 3.8 | 100.0 | 100.0 | 0 | 5/0 | 0.0 | 11/11 | 500 | 533 | - | - | 0 |
+| flute-vib oct 5 | 5 | 284 | 92.3 | 0.00 | 0.00 | 1158.3 | 98.5 | - | 0 | 0/0 | 0.0 | 5/5 | 233 | 667 | - | - | 0 |
+| guitar oct 2 | 7 | 363 | 92.3 | 2.14 | 10.56 | 1200.2 | 99.4 | 100.0 | 2 | 0/59 | 0.0 | 7/7 | 733 | 1533 | - | - | 1 |
+| guitar oct 3 | 6 | 274 | 85.4 | 1.23 | 6.78 | 1200.1 | 97.9 | 97.9 | 5 | 0/9 | 0.0 | 5/6 | 233 | 267 | - | - | 0 |
+| guitar oct 4 | 4 | 202 | 72.3 | 0.30 | 1.04 | 2.0 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 4/4 | 200 | 367 | - | - | 0 |
+| oboe oct 3 | 2 | 75 | 100.0 | 0.98 | 3.94 | 4.5 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 2/2 | 417 | 600 | - | - | 0 |
+| oboe oct 4 | 6 | 160 | 100.0 | 0.81 | 2.69 | 3.7 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 6/6 | 233 | 267 | - | - | 0 |
+| oboe oct 5 | 11 | 413 | 99.5 | 1.07 | 1201.16 | 1203.0 | 66.2 | 99.5 | 139 | 2/69 | 0.0 | 7/11 | 167 | 533 | - | - | 0 |
+| oboe oct 6 | 5 | 206 | 100.0 | 0.70 | 3.34 | 6.1 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 5/5 | 267 | 700 | - | - | 0 |
+| piano oct 1 | 1 | 62 | 100.0 | 1.24 | 8.81 | 10.1 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 1/1 | 733 | 733 | - | - | 4 |
+| piano oct 3 | 2 | 85 | 100.0 | 0.75 | 2.41 | 4.4 | 100.0 | 100.0 | 0 | 0/0 | 58.6 | 2/2 | 283 | 333 | - | - | 1 |
+| piano oct 4 | 3 | 116 | 100.0 | 0.52 | 2.93 | 4.3 | 100.0 | 100.0 | 0 | 9/0 | 0.0 | 3/3 | 500 | 567 | - | - | 0 |
+| piano oct 5 | 2 | 51 | 100.0 | 0.77 | 3.75 | 4.1 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 2/2 | 317 | 400 | - | - | 0 |
+| piano oct 6 | 1 | 40 | 100.0 | 0.31 | 1.21 | 2.4 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 1/1 | 133 | 133 | - | - | 0 |
+| trumpet-novib oct 3 | 7 | 639 | 100.0 | 0.75 | 3.33 | 6.6 | 100.0 | 100.0 | 0 | 4/3 | 0.0 | 7/7 | 367 | 367 | - | - | 0 |
+| trumpet-novib oct 4 | 10 | 982 | 100.0 | 0.58 | 2.01 | 8.6 | 100.0 | 99.8 | 0 | 1/0 | 0.0 | 10/10 | 233 | 300 | - | - | 0 |
+| trumpet-novib oct 5 | 8 | 876 | 100.0 | 0.44 | 1.40 | 4.9 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 8/8 | 233 | 233 | - | - | 0 |
+| trumpet-vib oct 4 | 8 | 978 | 100.0 | 0.00 | 0.00 | 0.0 | 100.0 | - | 0 | 0/0 | 0.0 | 8/8 | 233 | 367 | - | - | 0 |
+| tuba oct 2 | 11 | 356 | 100.0 | 0.95 | 3.20 | 6.3 | 100.0 | 99.4 | 0 | 1/0 | 0.0 | 11/11 | 267 | 400 | - | - | 0 |
+| viola-arco oct 3 | 20 | 1155 | 100.0 | 0.60 | 3.08 | 11.4 | 100.0 | 100.0 | 0 | 2/0 | 0.0 | 20/20 | 317 | 500 | - | - | 0 |
+| viola-arco oct 4 | 9 | 409 | 100.0 | 0.28 | 1.20 | 2.5 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 9/9 | 233 | 533 | - | - | 0 |
+| viola-arco oct 5 | 7 | 231 | 100.0 | 0.46 | 1.33 | 2.3 | 100.0 | 100.0 | 0 | 5/0 | 0.0 | 7/7 | 333 | 467 | - | - | 0 |
+| violin-arco oct 3 | 5 | 565 | 100.0 | 0.35 | 1.72 | 7.0 | 99.5 | 99.5 | 0 | 0/0 | 0.0 | 5/5 | 367 | 467 | - | - | 0 |
+| violin-arco oct 4 | 10 | 1123 | 100.0 | 0.32 | 1.52 | 11.3 | 100.0 | 100.0 | 0 | 1/0 | 0.0 | 10/10 | 367 | 433 | - | - | 0 |
+| violin-arco oct 5 | 5 | 549 | 100.0 | 0.26 | 1.04 | 3.0 | 100.0 | 100.0 | 0 | 0/0 | 0.0 | 5/5 | 333 | 400 | - | - | 0 |
+| violin-arco oct 6 | 2 | 226 | 100.0 | 0.00 | 0.00 | 0.0 | 100.0 | - | 0 | 0/0 | 0.0 | 2/2 | 367 | 400 | - | - | 0 |
+| violin-pizz oct 3 | 2 | 35 | 60.0 | 1199.46 | 1201.10 | 1201.1 | 0.0 | - | 0 | 0/0 | 0.0 | 0/2 | - | - | - | - | 0 |
+| violin-pizz oct 4 | 5 | 112 | 100.0 | 0.52 | 4.54 | 6.4 | 100.0 | 100.0 | 0 | 0/9 | 0.0 | 4/5 | 233 | 233 | - | - | 0 |
+
+Wrong-direction frames per base file (tighten while sharp / loosen while flat, of flat/sharp frames):
+  030_dbass-arco_Gs1_mf_auto_44k1_pcm16.wav: 0/78 of 78
+  327_dbass-arco_Gs1_ff_auto_44k1_pcm16.wav: 0/68 of 69
+  054_dbass-pizz_E1_mf_auto_44k1_pcm16.wav: 0/62 of 93
+  001_guitar_E2_mf_auto_96k_pcm24.wav: 0/37 of 117
+  260_oboe_Gs5_mf_chrom_44k1_pcm16.wav: 2/33 of 35
+  259_oboe_Fs5_mf_chrom_44k1_pcm16.wav: 0/34 of 36
+  093_cello-arco_Fs4_mf_chrom_44k1_pcm16.wav: 0/28 of 70
+  328_dbass-arco_A1_ff_auto_44k1_pcm16.wav: 23/0 of 77
+  005_guitar_E2_ff_auto_96k_pcm24.wav: 0/16 of 126
+  193_violin-pizz_Fs4_mf_chrom_44k1_pcm16.wav: 0/9 of 39
+  019_guitar_B3_mf_auto_96k_pcm24.wav: 0/8 of 48
+  035_dbass-arco_E2_mf_chrom_44k1_pcm16.wav: 0/7 of 76
+  324_dbass-arco_As2_ff_chrom_44k1_pcm16.wav: 0/7 of 72
+  003_guitar_F2_mf_auto_96k_pcm24.wav: 0/6 of 59
+  056_dbass-pizz_F1_mf_auto_44k1_pcm16.wav: 0/6 of 110
+  067_dbass-pizz_G2_mf_auto_44k1_pcm16.wav: 0/6 of 97
+  320_dbass-arco_F2_ff_chrom_44k1_pcm16.wav: 3/3 of 104
+  058_dbass-pizz_B1_mf_chrom_44k1_pcm16.wav: 5/0 of 100
+  065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav: 5/0 of 41
+  318_dbass-arco_E2_ff_chrom_44k1_pcm16.wav: 5/0 of 82
+  332_dbass-arco_As2_ff_chrom_44k1_pcm16.wav: 0/5 of 81
+  360_piano_Cs4_mf_chrom_44k1_f32.wav: 5/0 of 129
+  031_dbass-arco_A1_mf_auto_44k1_pcm16.wav: 0/4 of 88
+  048_dbass-arco_E3_mf_chrom_44k1_pcm16.wav: 4/0 of 72
+  059_dbass-pizz_A1_ff_auto_44k1_pcm16.wav: 0/4 of 100
+  062_dbass-pizz_D2_mf_auto_44k1_pcm16.wav: 0/4 of 120
+  222_flute-novib_As6_mf_chrom_44k1_pcm16.wav: 4/0 of 70
+  361_piano_Gs4_mf_chrom_44k1_f32.wav: 4/0 of 124
+  034_dbass-arco_B1_mf_chrom_44k1_pcm16.wav: 1/2 of 87
+  124_cello-pizz_Fs4_ff_chrom_44k1_pcm16.wav: 3/0 of 77
+  149_viola-arco_D5_mf_chrom_44k1_pcm16.wav: 3/0 of 55
+  210_flute-novib_Gs5_mf_chrom_44k1_pcm16.wav: 3/0 of 57
+  233_clarinet_B3_mf_chrom_44k1_pcm16.wav: 1/2 of 52
+  272_trumpet-novib_As3_mf_chrom_44k1_pcm16.wav: 0/3 of 99
+  039_dbass-arco_B2_mf_chrom_44k1_pcm16.wav: 2/0 of 76
+  109_cello-pizz_D3_mf_auto_44k1_pcm16.wav: 0/2 of 132
+  121_cello-pizz_Ds4_ff_chrom_44k1_pcm16.wav: 0/2 of 71
+  128_viola-arco_E3_mf_chrom_44k1_pcm16.wav: 2/0 of 80
+  156_viola-arco_B5_mf_chrom_44k1_pcm16.wav: 2/0 of 56
+  232_clarinet_As3_mf_chrom_44k1_pcm16.wav: 2/0 of 63
+  269_trumpet-novib_G3_mf_chrom_44k1_pcm16.wav: 2/0 of 91
+  273_trumpet-novib_B3_mf_chrom_44k1_pcm16.wav: 2/0 of 98
+  352_oboe_F5_ff_chrom_44k1_pcm16.wav: 0/2 of 36
+  014_guitar_G3_mf_auto_96k_pcm24.wav: 0/1 of 47
+  050_dbass-arco_F3_mf_chrom_44k1_pcm16.wav: 1/0 of 95
+  168_violin-arco_Fs4_mf_chrom_44k1_pcm16.wav: 1/0 of 133
+  200_flute-novib_Fs4_mf_chrom_44k1_pcm16.wav: 0/1 of 61
+  203_flute-novib_As4_mf_chrom_44k1_pcm16.wav: 0/1 of 71
+  216_flute-novib_E6_mf_chrom_44k1_pcm16.wav: 1/0 of 66
+  229_clarinet_D3_mf_chrom_44k1_pcm16.wav: 1/0 of 58
+  246_clarinet_G6_ff_chrom_44k1_pcm16.wav: 0/1 of 57
+  274_trumpet-novib_C4_mf_chrom_44k1_pcm16.wav: 1/0 of 84
+  306_tuba_Fs2_mf_chrom_44k1_pcm16.wav: 1/0 of 43
+
+A4 safety (all files): 37 "tighten" frames while >= 1 octave sharp of the target, of 2074 shown frames on such notes
+  120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav: 32 frames, t 3.967-5.0 s
+  066_harmonic_A2_mf_lockedA1-x2_44k1_pcm16.wav: 5 frames, t 2.2-2.333 s
+SPEC 9 guard (all files): 53 "tighten" frames while > 300 c above the engine target
+  120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav: 32 frames, t 3.967-5.0 s
+  065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav: 5 frames, t 0.8-0.933 s
+  066_harmonic_A2_mf_lockedA1-x2_44k1_pcm16.wav: 5 frames, t 2.2-2.333 s
+  222_flute-novib_As6_mf_chrom_44k1_pcm16.wav: 4 frames, t 3.1-3.2 s
+  124_cello-pizz_Fs4_ff_chrom_44k1_pcm16.wav: 3 frames, t 3.167-3.233 s
+  210_flute-novib_Gs5_mf_chrom_44k1_pcm16.wav: 3 frames, t 2.767-2.833 s
+  216_flute-novib_E6_mf_chrom_44k1_pcm16.wav: 1 frames, t 3.067-3.067 s
+
+Columns: as check.py; settled = onsets reaching stable within +-2 c / onsets; setl50/95 = settle ms of the settled onsets; 1st50/95 = ms from onset to the first right-note frame (latency); jumps>1c = steady-display violations; false% = readings on nothing-segments (pre-roll room noise, after the note died away).

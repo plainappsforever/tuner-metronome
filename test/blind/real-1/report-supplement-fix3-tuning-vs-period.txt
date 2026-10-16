@@ -1,0 +1,123 @@
+REAL-recording blind set (SUPPLEMENT: real recordings whose own estimate is 5-50 c from the catalogue note (NOT part of the main set)): truth = period
+Blind set: 361 files; scored 361; missing outputs 0
+Frame spacing (median over files): 33.3 ms; t unit: s; t offset 0.0 s; lookback 0.2 s
+
+group                  files  evalF cover%    med    p95     max  note%   tgt%  stat% harm  nothF false% noisy wDirT wDirL setl50 setl95 sFail 1stF
+---------------------------------------------------------------------------------------------------------------------------------------------------
+cello-arco                21   1175  100.0   0.57   6.79    12.2   99.7   99.7   95.1    0    257    0.0     0    16    29    400    467     -    7
+cello-pizz                29    960   99.3   2.17   9.65    41.4   98.4   96.6   96.5    0    416    0.0     0     0     0    300    900 23/24    4
+clarinet                  24   1271  100.0   0.44   2.72     5.3  100.0   97.1  100.0    0    319    0.0     0     1     6    333    567     -    6
+dbass-arco                35   2186  100.0   0.47   4.22    32.4  100.0  100.0  100.0    0    430    0.0     0    12    37    400    767     -    6
+dbass-pizz                17    754   99.1   1.59  12.06    19.2  100.0  100.0   99.4    0    257    5.4     0     7    16    467   1333 13/13    6
+flute-novib               28   1566  100.0   0.68   2.73     6.6  100.0  100.0  100.0    0    336    0.0     0     4     0    400    667     -   11
+flute-vib                  5    284   91.9   0.00   0.00     2.9  100.0  100.0      -    0     60    0.0     0     0     0    233    600     -    6
+guitar                    24   1208   99.3   2.29  46.81    60.7  100.0  100.0  100.0    0    288    0.0     0   234    11    217    467 20/20    4
+harmonic                  28   1493  100.0   0.53   6.43    55.9   99.9  100.0  100.0    0    363    0.0     0    36     0    333    733   5/5    5
+oboe                      24    854  100.0   0.70   2.63     5.8  100.0  100.0  100.0    0    715    0.0     0     2     1    167    533     -    3
+piano                      9    354  100.0   3.74  17.21    24.6  100.0  100.0  100.0    0    142   23.9     0     3     0    300    467   7/8    4
+trumpet-novib             25   2497  100.0   0.57   2.43    12.6  100.0  100.0   99.9    0    300    0.0     0     2    17    267    467     -    4
+trumpet-vib                8    978  100.0   0.00   0.00     0.0  100.0  100.0      -    0     96    0.0     0     0     0    250    333     -    4
+tuba                      11    356  100.0   1.06   4.86     9.1  100.0  100.0   98.6    0    132    0.0     0     2     0    333    700     -    6
+viola-arco                38   1913  100.0   0.48   2.23    11.4  100.0  100.0  100.0    0    461    0.0     0     4     0    300    500     -    5
+violin-arco               26   2909  100.0   0.32   1.57     7.0   99.9   98.8   99.9    0    312    0.0     0     1     0    367    500     -    5
+violin-pizz                9    213  100.0   0.58   3.03    12.4  100.0   96.2   94.8    0    150    0.0     0     0     7    200    400   5/6    3
+
+A3:snr20plus             306  17725   99.8   0.52   5.11    60.7   99.9   99.3   99.5    0      0      -     0   203   109    300    600 56/59    5
+R:high_1000_2100          23   1203  100.0   0.66   2.97     5.8  100.0  100.0  100.0    0      0      -     0     0     2    367    467     -    5
+R:piano_first_partial      8    314  100.0   4.71  18.13    24.6  100.0  100.0  100.0    0      0      -     0     3     0    333    467   7/8    6
+R:pluck_first_partial     57   2241   99.5   1.87  19.80    60.7   99.3   98.2   98.1    0      0      -     0   156    25    300    900 49/51    4
+R:steady_harmonic        181  11438  100.0   0.55   2.93    32.4   99.9   99.9   99.7    0      0      -     0    27    69    333    567     -    5
+R:vibrato                 37   2529   98.9   0.00   0.00    21.2  100.0   97.2      -    0      0      -     0    17    13    300    567     -    5
+R:all-base               306  17725   99.8   0.52   5.11    60.7   99.9   99.3   99.5    0      0      -     0   203   109    300    600 56/59    5
+
+Columns: evalF = frames inside evaluation windows; cover% = of those, frames showing a reading; med/p95/max = |cents| error of shown frames vs truth; note% = right note (octave included) among shown frames; tgt% = engine target string = expected; stat% = status in the expected set; harm = shown frames off by 7/12/19/24 semitones; nothF = frames where nothing must be shown (after grace); false% = of those, frames showing a reading; noisy = frames with status noisy in nothing-segments; wDirT/wDirL = "tighten" while sharp / "loosen" while flat (> tolerance+2 c); setl50/95 = settle ms (onset -> stable within +-2 c); sFail = settle over SPEC budget/budgeted onsets; 1stF = median frames from onset to first right-note reading.
+
+REAL recordings - REPORTED, NOT an acceptance verdict (SPEC 13.2: real-recording numbers are reported
+separately with their reference uncertainty and never mixed into the synthetic A2 cents figure).
+The A1 limits are printed only as a yardstick; "ref_u" = median / p95 reference uncertainty of the truth itself.
+  R:steady_harmonic        files 181  median 0.550 c, p95 2.927 c, max 32.4 c, coverage 100.0 %, right note 99.95 %, ref_u 0.26/0.56 c, period-vs-first-partial gap 0.07/0.72 c  (bowed/wind 40-1000 Hz, no vibrato)  [outside the A1 yardstick: median <= 0.5, p95 <= 1.0]
+  R:pluck_first_partial    files  57  median 1.872 c, p95 19.801 c, max 60.7 c, coverage 99.5 %, right note 99.33 %, ref_u 0.18/0.70 c, period-vs-first-partial gap 1.85/7.29 c  (pizzicato 40-1000 Hz vs first partial)  [outside the A1 yardstick: median <= -, p95 <= 1.5]
+  R:piano_first_partial    files   8  median 4.712 c, p95 18.128 c, max 24.6 c, coverage 100.0 %, right note 100.00 %, ref_u 0.06/0.15 c, period-vs-first-partial gap 4.13/14.12 c  (piano vs first partial (strong inharmonicity))  [outside the A1 yardstick: median <= -, p95 <= 1.5]
+  R:high_1000_2100         files  23  median 0.658 c, p95 2.971 c, max 5.8 c, coverage 100.0 %, right note 100.00 %, ref_u 0.39/0.63 c, period-vs-first-partial gap 0.15/0.72 c  (1000-2100 Hz)  [outside the A1 yardstick: median <= -, p95 <= 2.0]
+  R:low_below_40           no data
+  R:vibrato                files  37  median 0.000 c, p95 0.000 c, max 21.2 c, coverage 98.9 %, right note 100.00 %, ref_u 1.77/4.37 c, period-vs-first-partial gap 0.23/3.24 c  (vibrato, lookback rule)
+  R:all-base               files 306  median 0.519 c, p95 5.109 c, max 60.7 c, coverage 99.8 %, right note 99.88 %, ref_u 0.30/2.43 c, period-vs-first-partial gap 0.12/3.84 c  (all base files)
+  A3-like right note       99.88 % of shown frames (octave included; A3 yardstick 99.5 %), coverage 99.8 %
+  silence (pre-roll/after) 48/5034 frames show a reading (0.95 %) on room-noise or digital-silence segments
+  harmonic-test files      28 files: 100.0 % of shown frames have status harmonic or muchTooHigh (99.9 % harmonic), 1493 frames; note right 99.9 %
+  A4 safety                FAIL  36 "tighten" frames while >= 1 octave sharp of the target (2233 shown frames on such notes); e.g. [('120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav', 3.833, 'flat'), ('120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav', 3.867, 'flat'), ('120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav', 3.9, 'flat')]
+  SPEC 9 guard             FAIL  44 "tighten" frames while > 300 c above the engine's own target (all files); e.g. [('065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav', 2.2), ('065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav', 2.233), ('065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav', 2.267)]
+  wrong direction          FAIL  324 "tighten" while sharp, 124 "loosen" while flat, of 27057 flat/sharp frames (all files; vs the measured local truth)
+  settle (plucks)          3/76 budgeted pizzicato/piano onsets reach a stable reading within +-2 c of the local truth inside 150 ms (82-1000 Hz) / 300 ms (< 70 Hz) - reported; owner target p95 200/400 ms (D36)
+  octave/harmonic errors   17 shown frames off by 7/12/19/24 semitones on base files (evaluation window + tail)
+  steady display           10 consecutive-frame displayCents changes > 1 on notes flagged steady (pitch spread <= 3 c) (max 10.0)
+
+Files needing a look (settle failures, wrong notes, false readings, wrong direction):
+  settle 003_guitar_F2_mf_auto_96k_pcm24.wav: onset 0.5 s F2: settle 433 ms (budget 150)
+  settle 004_guitar_Fs2_mf_chrom_96k_pcm24.wav: onset 0.5 s F#2: settle 600 ms (budget 150)
+  settle 007_guitar_A2_mf_auto_96k_pcm24.wav: onset 0.5 s A2: settle 467 ms (budget 150)
+  settle 008_guitar_A2_mf_lockedA2_96k_pcm24.wav: onset 0.5 s A2: settle 467 ms (budget 150)
+  settle 009_guitar_As2_mf_auto_96k_pcm24.wav: onset 0.5 s A#2: settle 333 ms (budget 150)
+  settle 010_guitar_B2_mf_chrom_96k_pcm24.wav: onset 0.5 s B2: settle 200 ms (budget 150)
+  settle 011_guitar_D3_mf_auto_96k_pcm24.wav: onset 0.5 s D3: settle 167 ms (budget 150)
+  settle 012_guitar_D3_mf_lockedD3_96k_pcm24.wav: onset 0.5 s D3: settle 167 ms (budget 150)
+  settle 013_guitar_Ds3_mf_auto_96k_pcm24.wav: onset 0.5 s D#3: settle 167 ms (budget 150)
+  settle 014_guitar_G3_mf_auto_96k_pcm24.wav: onset 0.5 s G3: settle 267 ms (budget 150)
+  settle 015_guitar_G3_mf_lockedG3_96k_pcm24.wav: onset 0.5 s G3: settle 267 ms (budget 150)
+  settle 016_guitar_A3_mf_chrom_96k_pcm24.wav: onset 0.5 s A3: settle 167 ms (budget 150)
+  settle 017_harmonic_A3_mf_lockedA2-x2_96k_pcm24.wav: onset 0.5 s A3: settle 167 ms (budget 150)
+  settle 018_guitar_As3_mf_auto_96k_pcm24.wav: onset 0.5 s A#3: settle 167 ms (budget 150)
+  settle 019_guitar_B3_mf_auto_96k_pcm24.wav: onset 0.5 s B3: settle 233 ms (budget 150)
+  settle 020_guitar_B3_mf_lockedB3_96k_pcm24.wav: onset 0.5 s B3: settle 233 ms (budget 150)
+  settle 021_harmonic_B3_mf_lockedE2-x3_96k_pcm24.wav: onset 0.5 s B3: settle 233 ms (budget 150)
+  settle 022_guitar_E4_mf_auto_96k_pcm24.wav: onset 0.5 s E4: settle 200 ms (budget 150)
+  settle 023_guitar_E4_mf_lockedE4_96k_pcm24.wav: onset 0.5 s E4: settle 200 ms (budget 150)
+  settle 024_harmonic_E4_mf_lockedA2-x3_96k_pcm24.wav: onset 0.5 s E4: settle 200 ms (budget 150)
+  settle 025_guitar_F4_mf_auto_96k_pcm24.wav: onset 0.5 s F4: settle 367 ms (budget 150)
+  settle 026_guitar_Fs4_mf_chrom_96k_pcm24.wav: onset 0.5 s F#4: settle 200 ms (budget 150)
+  settle 027_guitar_G4_mf_chrom_96k_pcm24.wav: onset 0.5 s G4: settle 167 ms (budget 150)
+  settle 028_harmonic_G4_mf_lockedG3-x2_96k_pcm24.wav: onset 0.5 s G4: settle 167 ms (budget 150)
+  settle 054_dbass-pizz_E1_mf_auto_44k1_pcm16.wav: onset 0.5 s E1: settle 400 ms (budget 300)
+  ... 48 more settle failures
+  120_harmonic_D4_ff_lockedD3-x2_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 5.61 c, max 6.1 c, false 0, wrongDir 36/0
+  014_guitar_G3_mf_auto_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 58.47 c, max 58.7 c, false 0, wrongDir 31/1
+  015_guitar_G3_mf_lockedG3_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 58.47 c, max 58.7 c, false 0, wrongDir 31/1
+  022_guitar_E4_mf_auto_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 54.84 c, max 55.9 c, false 0, wrongDir 31/0
+  023_guitar_E4_mf_lockedE4_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 54.84 c, max 55.9 c, false 0, wrongDir 31/0
+  026_guitar_Fs4_mf_chrom_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 55.18 c, max 57.7 c, false 0, wrongDir 29/0
+  093_cello-arco_Fs4_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 3.04 c, max 3.2 c, false 0, wrongDir 0/26
+  019_guitar_B3_mf_auto_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 14.10 c, max 33.7 c, false 0, wrongDir 22/0
+  020_guitar_B3_mf_lockedB3_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 14.10 c, max 33.7 c, false 0, wrongDir 22/0
+  027_guitar_G4_mf_chrom_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 41.85 c, max 46.2 c, false 0, wrongDir 22/0
+  092_cello-arco_Ds4_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 0.00 c, max 0.0 c, false 0, wrongDir 16/0
+  010_guitar_B2_mf_chrom_96k_pcm24.wav: cover 100 %, note 100.0 %, p95 57.57 c, max 60.7 c, false 0, wrongDir 15/0
+  324_dbass-arco_As2_ff_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 2.09 c, max 2.5 c, false 0, wrongDir 0/10
+  003_guitar_F2_mf_auto_96k_pcm24.wav: cover 97 %, note 100.0 %, p95 18.95 c, max 43.7 c, false 0, wrongDir 0/9
+  048_dbass-arco_E3_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 2.49 c, max 2.9 c, false 0, wrongDir 8/0
+  193_violin-pizz_Fs4_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 2.07 c, max 2.1 c, false 0, wrongDir 0/7
+  059_dbass-pizz_A1_ff_auto_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 12.43 c, max 12.6 c, false 0, wrongDir 1/4
+  060_dbass-pizz_A1_ff_lockedA1_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 12.43 c, max 12.6 c, false 0, wrongDir 1/4
+  065_dbass-pizz_A2_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 5.04 c, max 14.4 c, false 0, wrongDir 5/0
+  332_dbass-arco_As2_ff_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 5.84 c, max 12.4 c, false 0, wrongDir 0/5
+  031_dbass-arco_A1_mf_auto_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 16.14 c, max 21.2 c, false 0, wrongDir 0/4
+  032_dbass-arco_A1_mf_lockedA1_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 16.14 c, max 21.2 c, false 0, wrongDir 0/4
+  034_dbass-arco_B1_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 1.76 c, max 3.7 c, false 0, wrongDir 1/3
+  291_trumpet-novib_A5_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 1.96 c, max 2.5 c, false 0, wrongDir 1/3
+  030_dbass-arco_Gs1_mf_auto_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 0.00 c, max 0.1 c, false 0, wrongDir 0/3
+  062_dbass-pizz_D2_mf_auto_44k1_pcm16.wav: cover 96 %, note 100.0 %, p95 2.65 c, max 3.6 c, false 0, wrongDir 0/3
+  063_dbass-pizz_D2_mf_lockedD2_44k1_pcm16.wav: cover 96 %, note 100.0 %, p95 2.65 c, max 3.6 c, false 0, wrongDir 0/3
+  075_cello-arco_Ds2_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 4.60 c, max 5.9 c, false 0, wrongDir 0/3
+  210_flute-novib_Gs5_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 3.77 c, max 4.0 c, false 0, wrongDir 3/0
+  270_trumpet-novib_Gs3_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 3.47 c, max 9.8 c, false 0, wrongDir 0/3
+  280_trumpet-novib_G4_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 1.57 c, max 2.7 c, false 0, wrongDir 0/3
+  320_dbass-arco_F2_ff_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 6.23 c, max 8.7 c, false 0, wrongDir 3/0
+  356_clarinet_D3_ff_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 2.10 c, max 2.9 c, false 0, wrongDir 0/3
+  360_piano_Cs4_mf_chrom_44k1_f32.wav: cover 100 %, note 100.0 %, p95 3.75 c, max 6.4 c, false 0, wrongDir 3/0
+  047_dbass-arco_Ds3_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 2.15 c, max 3.2 c, false 0, wrongDir 0/2
+  128_viola-arco_E3_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 3.82 c, max 5.0 c, false 0, wrongDir 2/0
+  156_viola-arco_B5_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 1.30 c, max 1.3 c, false 0, wrongDir 2/0
+  232_clarinet_As3_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 3.30 c, max 4.5 c, false 0, wrongDir 0/2
+  272_trumpet-novib_As3_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 4.43 c, max 12.6 c, false 0, wrongDir 0/2
+  283_trumpet-novib_As4_mf_chrom_44k1_pcm16.wav: cover 100 %, note 100.0 %, p95 1.60 c, max 2.7 c, false 0, wrongDir 0/2
+  ... 138 more files flagged (see --json)
+Per-file detail: python3 check.py OUTPUTS --file <name>
